@@ -51,20 +51,26 @@ def _event_row(e: dict, highlight: bool = False) -> str:
     source = html.escape(e.get("source", ""))
     url = e.get("url")
     link = f'<a href="{html.escape(url)}" target="_blank" rel="noopener">Link</a>' if url else "–"
+    image_url = e.get("image_url")
+    thumb = (
+        f'<img class="thumb" src="{html.escape(image_url)}" alt="" loading="lazy">'
+        if image_url
+        else '<div class="thumb thumb-placeholder">🎵</div>'
+    )
     cls = ' class="highlight"' if highlight else ""
     return (
         f"<tr{cls} data-date=\"{date}\">"
-        f"<td>{date}</td><td>{artist}</td><td>{venue}</td>"
+        f"<td>{thumb}</td><td>{date}</td><td>{artist}</td><td>{venue}</td>"
         f"<td class=\"source\">{source}</td><td>{link}</td></tr>"
     )
 
 
 def _render(recent: list[dict], all_events: list[dict], now: datetime) -> str:
     recent_rows = "\n".join(_event_row(e, highlight=True) for e in recent) or (
-        "<tr><td colspan=\"5\">Keine neuen Konzerte in den letzten Tagen.</td></tr>"
+        "<tr><td colspan=\"6\">Keine neuen Konzerte in den letzten Tagen.</td></tr>"
     )
     all_rows = "\n".join(_event_row(e) for e in all_events) or (
-        "<tr><td colspan=\"5\">Noch keine Konzerte erfasst.</td></tr>"
+        "<tr><td colspan=\"6\">Noch keine Konzerte erfasst.</td></tr>"
     )
     updated_display = now.strftime("%d.%m.%Y %H:%M UTC")
 
@@ -126,6 +132,20 @@ def _render(recent: list[dict], all_events: list[dict], now: datetime) -> str:
   a {{ color: var(--accent); text-decoration: none; }}
   a:hover {{ text-decoration: underline; }}
   .count {{ color: var(--muted); font-weight: normal; font-size: 0.85rem; }}
+  .thumb {{
+    width: 48px;
+    height: 48px;
+    border-radius: 6px;
+    object-fit: cover;
+    display: block;
+  }}
+  .thumb-placeholder {{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #21262d;
+    font-size: 1.1rem;
+  }}
 </style>
 </head>
 <body>
@@ -135,7 +155,7 @@ def _render(recent: list[dict], all_events: list[dict], now: datetime) -> str:
   <h2>Zuletzt hinzugekommen <span class="count">(letzte {RECENTLY_ADDED_WINDOW.days} Tage)</span></h2>
   <div class="card">
     <table>
-      <thead><tr><th>Datum</th><th>Artist</th><th>Venue</th><th>Quelle</th><th>Link</th></tr></thead>
+      <thead><tr><th>Bild</th><th>Datum</th><th>Artist</th><th>Venue</th><th>Quelle</th><th>Link</th></tr></thead>
       <tbody>{recent_rows}</tbody>
     </table>
   </div>
@@ -145,9 +165,10 @@ def _render(recent: list[dict], all_events: list[dict], now: datetime) -> str:
     <table id="all-table">
       <thead>
         <tr>
-          <th class="sortable" data-col="0">Datum</th>
-          <th class="sortable" data-col="1">Artist</th>
-          <th class="sortable" data-col="2">Venue</th>
+          <th>Bild</th>
+          <th class="sortable" data-col="1">Datum</th>
+          <th class="sortable" data-col="2">Artist</th>
+          <th class="sortable" data-col="3">Venue</th>
           <th>Quelle</th>
           <th>Link</th>
         </tr>
