@@ -2,9 +2,17 @@ name: Daily concert check
 
 on:
   schedule:
-    # 09:00 Europe/Berlin (Sommerzeit UTC+2 -> 07:00 UTC; im Winter ggf. anpassen)
+    # 09:00 / 14:00 / 19:00 Europe/Berlin (Sommerzeit UTC+2 -> 07/12/17 UTC;
+    # im Winter (UTC+1) verschieben sich diese Zeiten um -1h nach hinten,
+    # z.B. dann 10/15/20 Uhr deutscher Zeit -- bei Bedarf hier anpassen)
     - cron: "0 7 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 17 * * *"
   workflow_dispatch: {}  # manuelles Triggern über den GitHub-UI-Button
+
+concurrency:
+  group: daily-concert-check
+  cancel-in-progress: false
 
 permissions:
   contents: write
