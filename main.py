@@ -11,8 +11,10 @@ from __future__ import annotations
 
 import json
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
+import generate_page
 from dedupe import find_new_events
 from notify import send_new_event_notifications
 from sources import eventim, ticketmaster
@@ -70,8 +72,14 @@ def main() -> None:
     if new_events:
         send_new_event_notifications(new_events)
 
-    updated_known = known_events + [e.to_dict() for e in new_events]
+    discovered_at = datetime.now(timezone.utc).isoformat()
+    updated_known = known_events + [
+        {**e.to_dict(), "added_at": discovered_at} for e in new_events
+    ]
     save_known_events(updated_known)
+
+    generate_page.generate(updated_known)
+    print("index.html aktualisiert.")
 
 
 if __name__ == "__main__":
