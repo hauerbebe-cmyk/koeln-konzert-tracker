@@ -14,6 +14,7 @@ class Event:
     city: str
     source: str  # "ticketmaster" | "eventim" | "venue:palladium" | ...
     url: str | None = None
+    image_url: str | None = None
     id: str = field(default="", init=False)
 
     def __post_init__(self) -> None:
@@ -30,4 +31,5 @@ class Event:
             "city": self.city,
             "source": self.source,
             "url": self.url,
+            "image_url": self.image_url,
         }
