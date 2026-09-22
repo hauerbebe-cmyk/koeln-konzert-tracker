@@ -13,6 +13,22 @@ from .base import Event
 
 API_URL = "https://app.ticketmaster.com/discovery/v2/events.json"
 
+# Ticketmaster listet manche Konzerte zusätzlich als eigene "Paket"-Events
+# (VIP, Meet & Greet, Soundcheck, ...). Die wollen wir nicht als separate
+# Konzerte werten -- nur die reguläre Hauptshow zählt.
+PACKAGE_KEYWORDS = [
+    "vip package",
+    "vip-package",
+    "meet & greet",
+    "meet and greet",
+    "soundcheck",
+    "fan package",
+    "premium package",
+    "platinum",
+    "hospitality",
+    "experience package",
+]
+
 
 def fetch(city: str = "Cologne") -> list[Event]:
     api_key = os.environ.get("TICKETMASTER_API_KEY")
@@ -37,6 +53,8 @@ def fetch(city: str = "Cologne") -> list[Event]:
 
         page_events = data.get("_embedded", {}).get("events", [])
         for raw in page_events:
+            if _is_package_event(raw):
+                continue
             events.append(_parse_event(raw, city))
 
         page_info = data.get("page", {})
@@ -45,6 +63,11 @@ def fetch(city: str = "Cologne") -> list[Event]:
         page += 1
 
     return events
+
+
+def _is_package_event(raw: dict) -> bool:
+    name = raw.get("name", "").lower()
+    return any(keyword in name for keyword in PACKAGE_KEYWORDS)
 
 
 def _parse_event(raw: dict, fallback_city: str) -> Event:
