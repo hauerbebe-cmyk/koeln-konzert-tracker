@@ -29,3 +29,12 @@ falls kein JSON-Endpoint auffindbar ist:
 Ersetze das Platzhalter-fetch() unten, sobald die echten CSS-Selektoren
 feststehen (per Browser-Inspector ermitteln).
 """
+
+from __future__ import annotations
+
+from ..base import Event
+
+
+def fetch() -> list[Event]:
+    # TODO: echtes HTML-Scraping für livemusichall.de ergänzen.
+    return []
