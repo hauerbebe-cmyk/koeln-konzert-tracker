@@ -38,6 +38,8 @@ def fetch(city: str = TARGET_CITY) -> list[Event]:
                 city=city,
                 source="eventim",
                 url=getattr(product_group, "url", None),
+                image_url=getattr(product_group, "image", None)
+                or getattr(product_group, "image_url", None),
             )
         )
 
