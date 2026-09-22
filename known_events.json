@@ -1429,5 +1429,65 @@
     "city": "Cologne",
     "source": "ticketmaster",
     "url": "https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/183819762?language=en-us"
+  },
+  {
+    "id": "b3de4e9194012911",
+    "artist": "Teddy Swims - The UGLY Tour | Premium Packages",
+    "date": "2027-03-14T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-%7C-premium-packages-tickets/1647542945?language=en-us",
+    "added_at": "2026-09-22T15:56:55.069277+00:00"
+  },
+  {
+    "id": "eab5452027b959a9",
+    "artist": "Teddy Swims - The UGLY Tour",
+    "date": "2027-03-14T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-tickets/1714471728?language=en-us",
+    "added_at": "2026-09-22T15:56:55.069277+00:00"
+  },
+  {
+    "id": "d389fa14d357104b",
+    "artist": "Freya Skye - Stars Align Tour",
+    "date": "2026-11-23T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/freya-skye-stars-align-tour-tickets/1027440039?language=en-us",
+    "added_at": "2026-09-22T15:56:55.069277+00:00"
+  },
+  {
+    "id": "5564686c3137ac5e",
+    "artist": "Saint Levant - AFANDI WORLD TOUR",
+    "date": "2026-11-09T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/saint-levant-afandi-world-tour-tickets/1396366542?language=en-us",
+    "added_at": "2026-09-22T15:56:55.069277+00:00"
+  },
+  {
+    "id": "11e9dd400e54281d",
+    "artist": "SOMBR // You Are The Reason Tour // Cologne | Premium Packages",
+    "date": "2027-05-24T17:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-%7C-premium-packages-tickets/321933731?language=en-us",
+    "added_at": "2026-09-22T15:56:55.069277+00:00"
+  },
+  {
+    "id": "7a8a26ebc73e8df8",
+    "artist": "SOMBR // You Are The Reason Tour // Cologne",
+    "date": "2027-05-24T17:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-tickets/512858326?language=en-us",
+    "added_at": "2026-09-22T15:56:55.069277+00:00"
   }
 ]

@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Köln Konzert Tracker</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+    --highlight: #1f2d1f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 1rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
+  .updated { color: var(--muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  h2 { font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow-x: auto;
+    margin-bottom: 1.5rem;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  th, td {
+    text-align: left;
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+  }
+  th {
+    color: var(--muted);
+    font-weight: 600;
+    cursor: pointer;
+    user-select: none;
+    position: sticky;
+    top: 0;
+    background: var(--card);
+  }
+  th.sortable::after { content: " ⇅"; color: var(--muted); font-size: 0.75em; }
+  tr:last-child td { border-bottom: none; }
+  tr.highlight { background: var(--highlight); }
+  td.source { color: var(--muted); font-size: 0.8rem; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .count { color: var(--muted); font-weight: normal; font-size: 0.85rem; }
+</style>
+</head>
+<body>
+  <h1>🎵 Köln Konzert Tracker</h1>
+  <div class="updated">Zuletzt aktualisiert: 22.09.2026 15:56 UTC</div>
+
+  <h2>Zuletzt hinzugekommen <span class="count">(letzte 3 Tage)</span></h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>Datum</th><th>Artist</th><th>Venue</th><th>Quelle</th><th>Link</th></tr></thead>
+      <tbody><tr class="highlight" data-date="2027-03-14"><td>2027-03-14</td><td>Teddy Swims - The UGLY Tour | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-%7C-premium-packages-tickets/1647542945?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr class="highlight" data-date="2027-03-14"><td>2027-03-14</td><td>Teddy Swims - The UGLY Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-tickets/1714471728?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr class="highlight" data-date="2026-11-23"><td>2026-11-23</td><td>Freya Skye - Stars Align Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/freya-skye-stars-align-tour-tickets/1027440039?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr class="highlight" data-date="2026-11-09"><td>2026-11-09</td><td>Saint Levant - AFANDI WORLD TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/saint-levant-afandi-world-tour-tickets/1396366542?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr class="highlight" data-date="2027-05-24"><td>2027-05-24</td><td>SOMBR // You Are The Reason Tour // Cologne | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-%7C-premium-packages-tickets/321933731?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr class="highlight" data-date="2027-05-24"><td>2027-05-24</td><td>SOMBR // You Are The Reason Tour // Cologne</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-tickets/512858326?language=en-us" target="_blank" rel="noopener">Link</a></td></tr></tbody>
+    </table>
+  </div>
+
+  <h2>Alle Konzerte <span class="count">(165)</span></h2>
+  <div class="card">
+    <table id="all-table">
+      <thead>
+        <tr>
+          <th class="sortable" data-col="0">Datum</th>
+          <th class="sortable" data-col="1">Artist</th>
+          <th class="sortable" data-col="2">Venue</th>
+          <th>Quelle</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody><tr data-date="2026-09-22"><td>2026-09-22</td><td>Allie Sherlock - For Once I&#x27;ll Say It Out loud Tour</td><td>Gloria</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/allie-sherlock-for-once-ill-say-it-out-loud-tour-tickets/1777061998?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-23"><td>2026-09-23</td><td>Vundabar &amp; Yot Club</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/vundabar--yot-club-tickets/1378785213?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-23"><td>2026-09-23</td><td>Drug Church</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/drug-church-tickets/1552182012?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-23"><td>2026-09-23</td><td>OsamaSon - PSYKTURNAL TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/osamason-psykturnal-tour-tickets/935992857?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-25"><td>2026-09-25</td><td>Euroblast Festival 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.universe.com/events/euroblast-festival-2026-tickets-NBJF2G?ref=ticketmaster" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-25"><td>2026-09-25</td><td>Lilyisthatyou - THE FLOWERS HAVE FEELINGS TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/lilyisthatyou-the-flowers-have-feelings-tour-tickets/783355117?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-25"><td>2026-09-25</td><td>bleood - Kill Your Idols Europe Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/bleood-kill-your-idols-europe-tour-tickets/698686654?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-26"><td>2026-09-26</td><td>The Lemon Twigs</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/the-lemon-twigs-tickets/129038518?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-26"><td>2026-09-26</td><td>JJ - Act II - Into The Unknown Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/jj-act-ii-into-the-unknown-tour-tickets/689158877?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-26"><td>2026-09-26</td><td>JJ - Act ll - Into The Unknown Tour | VIP Ticket	</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/jj-act-ll-into-the-unknown-tour-%7C-vip-ticket-tickets/581387494?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-28"><td>2026-09-28</td><td>Mad Tsai - The BITE BACK Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/mad-tsai-the-bite-back-tour-tickets/310250275?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-30"><td>2026-09-30</td><td>Lake Street Dive - 2026 European Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/lake-street-dive-2026-european-tour-tickets/765444700?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-09-30"><td>2026-09-30</td><td>Ben Ellis - Time Slows On Tour 2026	</td><td>Yard Club</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/ben-ellis-time-slows-on-tour-2026-tickets/1946285034?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-01"><td>2026-10-01</td><td>King Woman</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/king-woman-tickets/639483306?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-03"><td>2026-10-03</td><td>Bryan Adams - Roll With The Punches Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/bryan-adams-roll-with-the-punches-tour-tickets/1702612759?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-04"><td>2026-10-04</td><td>WITCHZ presents ENTER AFTERLIFE World Tour 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/witchz-presents-enter-afterlife-world-tour-2026-tickets/592597257?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-04"><td>2026-10-04</td><td>Tommy Lyon - Europe 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/tommy-lyon-europe-2026-tickets/1763420626?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-06"><td>2026-10-06</td><td>Dizzee Rascal - We Want Bass Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/dizzee-rascal-we-want-bass-tour-tickets/246688269?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-08"><td>2026-10-08</td><td>Nails</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/nails-tickets/1760591033?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-08"><td>2026-10-08</td><td>STVW - Punk Rave Europe Tour 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/stvw-punk-rave-europe-tour-2026-tickets/301069462?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-08"><td>2026-10-08</td><td>Lucy Bedroque - 003 Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/lucy-bedroque-003-tour-tickets/810070018?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-11"><td>2026-10-11</td><td>54 Ultra - LIVE IN EU</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/54-ultra-live-in-eu-tickets/654747910?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-13"><td>2026-10-13</td><td>Niall Horan: Dinner Party Live On Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/niall-horan-dinner-party-live-on-tour-tickets/1761038607?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-13"><td>2026-10-13</td><td>Niall Horan: Dinner Party Live On Tour | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/niall-horan-dinner-party-live-on-tour-%7C-premium-packages-tickets/990676054?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-13"><td>2026-10-13</td><td>Jhariah - The Trust Ceremony UK / EU Tour</td><td>Garagen</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/jhariah-the-trust-ceremony-uk-eu-tour-tickets/981298951?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-13"><td>2026-10-13</td><td>Katherine Priddy</td><td>Jaki</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/katherine-priddy-tickets/1641118362?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-13"><td>2026-10-13</td><td>David Duchovny - European Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/david-duchovny-european-tour-tickets/1646060141?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-14"><td>2026-10-14</td><td>HONNE - 10 Year anniversary tour</td><td>Stadthalle Köln</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/honne-10-year-anniversary-tour-tickets/1543605094?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-14"><td>2026-10-14</td><td>SAM TOMPKINS - ARE WE GONNA SING? Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sam-tompkins-are-we-gonna-sing-tour-tickets/312557709?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-15"><td>2026-10-15</td><td>J. Cole: The Fall-Off Tour | Box-Seat</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/j-cole-the-fall-off-tour-%7C-box-seat-tickets/1117119435?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-15"><td>2026-10-15</td><td>J. Cole: The Fall-Off Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/j-cole-the-fall-off-tour-tickets/1522846211?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-15"><td>2026-10-15</td><td>Eli - STAGE GIRL</td><td>Yard Club</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/eli-stage-girl-tickets/1535219132?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-15"><td>2026-10-15</td><td>Father Of Peace - The Year Of Madness &amp; The Mystery Century Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/father-of-peace-the-year-of-madness--the-mystery-century-tour-tickets/527266732?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-16"><td>2026-10-16</td><td>LEVELLERS - 35 YEARS LEVELLING THE LAND</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/levellers-35-years-levelling-the-land-tickets/1595449171?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-17"><td>2026-10-17</td><td>Yung Pepp - Die große kleine Tour 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/764047606?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-17"><td>2026-10-17</td><td>DeVotchKa - A Celebration of the Music of Little Miss Sunshine</td><td>Yard Club</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/devotchka-a-celebration-of-the-music-of-little-miss-sunshine-tickets/993743172?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-18"><td>2026-10-18</td><td>Ivo Martin - MIT DIR WIRD MIR WARM TOUR 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/ivo-martin-mit-dir-wird-mir-warm-tour-2026-tickets/1148769263?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-18"><td>2026-10-18</td><td>James Blake - Trying Times Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/james-blake-trying-times-tour-tickets/1448464285?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-18"><td>2026-10-18</td><td>RUEL - Kicking &amp; Screaming UK + EU Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/ruel-kicking--screaming-uk--eu-tour-tickets/1492958486?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-20"><td>2026-10-20</td><td>Slayyyter - WOR$T GIRL IN THE WORLD TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/slayyyter-wort-girl-in-the-world-tour-tickets/1384236022?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-20"><td>2026-10-20</td><td>Jamie Grey - Europe 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/jamie-grey-europe-2026-tickets/1415291097?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-21"><td>2026-10-21</td><td>KoRn - EURO TOUR 2026 | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/korn-euro-tour-2026-%7C-premium-packages-tickets/1649559989?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-22"><td>2026-10-22</td><td>Charlie Jeer</td><td>Yard Club</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/charlie-jeer-tickets/252158425?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-23"><td>2026-10-23</td><td>Natanya</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/natanya-tickets/771705092?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-24"><td>2026-10-24</td><td>EST Gee - BIGGER THAN THE DEVIL TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/est-gee-bigger-than-the-devil-tour-tickets/1394485827?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-25"><td>2026-10-25</td><td>EVE - Scorpion Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/342594291?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-26"><td>2026-10-26</td><td>Stevie Wonder: Songs In The Key of Life Performances| Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/stevie-wonder-songs-in-the-key-of-life-performances%7C-premium-packages-tickets/222397779?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-26"><td>2026-10-26</td><td>Stevie Wonder: Songs In The Key of Life Performances</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/stevie-wonder-songs-in-the-key-of-life-performances-tickets/1900854364?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-26"><td>2026-10-26</td><td>Dan Whitlam</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/dan-whitlam-tickets/830726106?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-27"><td>2026-10-27</td><td>Matt Hansen</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/matt-hansen-tickets/1020577044?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-27"><td>2026-10-27</td><td>The Bausa</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/the-bausa-tickets/1675061412?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-27"><td>2026-10-27</td><td>UCHE YARA - BODYSCANNER Tour 2026</td><td>Jaki</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/uche-yara-bodyscanner-tour-2026-tickets/560505937?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-28"><td>2026-10-28</td><td>Kelela - new avatar live</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/kelela-new-avatar-live-tickets/1014368806?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-29"><td>2026-10-29</td><td>Lip Critic</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/lip-critic-tickets/596166272?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-29"><td>2026-10-29</td><td>NEUNUNDNEUNZIG - Nichts Für Immer Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/neunundneunzig-nichts-fur-immer-tour-tickets/2071332032?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-30"><td>2026-10-30</td><td>Stephen Wilson Jr. - Gary The Torch Tour</td><td>Theater am Tanzbrunnen</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/stephen-wilson-jr-gary-the-torch-tour-tickets/1889227323?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-30"><td>2026-10-30</td><td>SKELER - ‚Nightfall&#x27; World Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/skeler-nightfall-world-tour-tickets/1926999911?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-30"><td>2026-10-30</td><td>ARLO PARKS - DESIRE TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/arlo-parks-desire-tour-tickets/1099643231?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-30"><td>2026-10-30</td><td>Westside Cowboy</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/westside-cowboy-tickets/1720837633?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-30"><td>2026-10-30</td><td>THIZZY52 - BLOCKKIDS TOUR 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/thizzy52-blockkids-tour-2026-tickets/1747423588?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-10-31"><td>2026-10-31</td><td>The Home Team - The Crucible of Life European Tour 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/the-home-team-the-crucible-of-life-european-tour-2026-tickets/482754674?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-01"><td>2026-11-01</td><td>SPORTS</td><td>Yard Club</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sports-tickets/55209804?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-02"><td>2026-11-02</td><td>The Fray - Autumn Light Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/the-fray-autumn-light-tour-tickets/206986536?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-02"><td>2026-11-02</td><td>Placebo - 30th Anniversary Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/953319605?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-02"><td>2026-11-02</td><td>Ryan Beatty - Arms Over Armor Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/ryan-beatty-arms-over-armor-tour-tickets/962837786?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-02"><td>2026-11-02</td><td>Undeath</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/undeath-tickets/1876149761?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-03"><td>2026-11-03</td><td>Flawed Mangoes - The Killswitch Memories Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/flawed-mangoes-the-killswitch-memories-tour-tickets/1319371382?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-03"><td>2026-11-03</td><td>My First Time</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/my-first-time-tickets/393422494?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-04"><td>2026-11-04</td><td>Tokyo Tea Room</td><td>Yard Club</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/tokyo-tea-room-tickets/1070335183?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-08"><td>2026-11-08</td><td>Saint Levant - AFANDI WORLD TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/saint-levant-afandi-world-tour-tickets/1864661934?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-09"><td>2026-11-09</td><td>Saint Levant - AFANDI WORLD TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/saint-levant-afandi-world-tour-tickets/1396366542?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-10"><td>2026-11-10</td><td>Haute &amp; Freddy</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/haute--freddy-tickets/1429275885?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-11"><td>2026-11-11</td><td>Ash - 1977 30th Anniversary Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/ash-1977-30th-anniversary-tour-tickets/1672833887?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-12"><td>2026-11-12</td><td>Nemzzz - LOCKED IN</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/nemzzz-locked-in-tickets/1306287867?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-15"><td>2026-11-15</td><td>Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-tickets/815576469?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-16"><td>2026-11-16</td><td>Eloise</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/eloise-tickets/1406232755?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-17"><td>2026-11-17</td><td>glaive - God Save The Three Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/glaive-god-save-the-three-tour-tickets/734806777?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-17"><td>2026-11-17</td><td>KING NO-ONE - The Burden Of Empathy Tour 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/king-no-one-the-burden-of-empathy-tour-2026-tickets/564225403?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-17"><td>2026-11-17</td><td>NEONI - HOW TO KILL A FAIRYTALE TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/neoni-how-to-kill-a-fairytale-tour-tickets/356641496?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-19"><td>2026-11-19</td><td>Violent Vira</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/violent-vira-tickets/2035899359?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-19"><td>2026-11-19</td><td>Mietze Conte</td><td>Garagen</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/mietze-conte-tickets/1462194927?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-20"><td>2026-11-20</td><td>Nieve Ella - How Long Will It Take? | The Debut Album Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/nieve-ella-how-long-will-it-take-%7C-the-debut-album-tour-tickets/2083023523?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-20"><td>2026-11-20</td><td>Elder Island - 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/elder-island-2026-tickets/562353330?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-20"><td>2026-11-20</td><td>SON MIEUX - 24 Hours - EU Album Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/son-mieux-24-hours-eu-album-tour-tickets/1706339564?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-21"><td>2026-11-21</td><td>Tinie Tempah - THE NIGHT´S NOT DEAD TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/tinie-tempah-the-nights-not-dead-tour-tickets/1665281885?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-22"><td>2026-11-22</td><td>La Sonora Santanera | Köln</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.universe.com/events/la-sonora-santanera-koln-tickets-2SM43V?ref=ticketmaster" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-22"><td>2026-11-22</td><td>Freya Skye - Stars Align Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/freya-skye-stars-align-tour-tickets/2068574992?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-23"><td>2026-11-23</td><td>Strangelove - The DEPECHE MODE Experience Black Celebration 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/strangelove-the-depeche-mode-experience-black-celebration-2026-tickets/1055269406?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-23"><td>2026-11-23</td><td>Freya Skye - Stars Align Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/freya-skye-stars-align-tour-tickets/1027440039?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-24"><td>2026-11-24</td><td>Muna - Gets So Hot Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/muna-gets-so-hot-tour-tickets/364655220?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-24"><td>2026-11-24</td><td>re6ce</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/re6ce-tickets/1265991687?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-26"><td>2026-11-26</td><td>Noah Kahan - The Great Divide Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/noah-kahan-the-great-divide-tour-tickets/1168743299?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-26"><td>2026-11-26</td><td>Noah Kahan - The Great Divide Tour | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/noah-kahan-the-great-divide-tour-%7C-premium-packages-tickets/289769463?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-26"><td>2026-11-26</td><td>WesGhost - If It&#x27;s Not Forever</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/wesghost-if-its-not-forever-tickets/588026861?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-26"><td>2026-11-26</td><td>Murda - UZAY TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/murda-uzay-tour-tickets/193762292?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-26"><td>2026-11-26</td><td>moé - GESCHICHTEN DIE WIR NIEMANDEM ERZÄHLEN - LIVE 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/moe-geschichten-die-wir-niemandem-erzahlen-live-2026-tickets/458877064?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-27"><td>2026-11-27</td><td>ONE OF THESE - a celebration of Pink Floyd - Animals Tour</td><td>Groove Bar &amp; Lounge</td><td class="source">ticketmaster</td><td><a href="https://www.universe.com/events/one-of-these-a-celebration-of-pink-floyd-animals-tour-tickets-0JS2X7?ref=ticketmaster" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-27"><td>2026-11-27</td><td>CHLOE SLATER - riot youth tour</td><td>Yard Club</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/chloe-slater-riot-youth-tour-tickets/1799902534?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-28"><td>2026-11-28</td><td>MNEK - THE!! BULLDOZER!! TOUR!!</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/mnek-the-bulldozer-tour-tickets/1167340039?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-28"><td>2026-11-28</td><td>JULIA WOLF - Deep End World Tour 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/julia-wolf-deep-end-world-tour-2026-tickets/1585752132?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-29"><td>2026-11-29</td><td>Mammoth</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/mammoth-tickets/1705530300?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-29"><td>2026-11-29</td><td>EsDeeKid - Council House Rat Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/esdeekid-council-house-rat-tour-tickets/257265610?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-30"><td>2026-11-30</td><td>Tiffany Day - HALO TOUR EUROPE</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/tiffany-day-halo-tour-europe-tickets/1949849480?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-11-30"><td>2026-11-30</td><td>Sace6</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sace6-tickets/1269565831?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-01"><td>2026-12-01</td><td>James Smith - GOLDEN AGE EUROPE TOUR 2026</td><td>Garagen</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/james-smith-golden-age-europe-tour-2026-tickets/1113628507?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-01"><td>2026-12-01</td><td>GURRIERS - Nobody&#x27;s Coming To Save You Tour 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/gurriers-nobodys-coming-to-save-you-tour-2026-tickets/1883418129?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-02"><td>2026-12-02</td><td>VOILÀ presents MOONBLOOM: Where Music Meets Magic</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/voila-presents-moonbloom-where-music-meets-magic-tickets/839505285?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-03"><td>2026-12-03</td><td>Pa Sheehy - The Magic We Found Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/pa-sheehy-the-magic-we-found-tour-tickets/829310094?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-04"><td>2026-12-04</td><td>Lelo - New Detroit Vol 2: Mastiff: Pink Tiles Tour</td><td>Club Veedel</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/lelo-new-detroit-vol-2-mastiff-pink-tiles-tour-tickets/524381386?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-07"><td>2026-12-07</td><td>Novulent - Live in Europe 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/novulent-live-in-europe-2026-tickets/1810878115?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-07"><td>2026-12-07</td><td>NIMO: Home Sweet Home Arena Tour 2026</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/nimo-home-sweet-home-arena-tour-2026-tickets/1785864835?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-09"><td>2026-12-09</td><td>Kodaline - Farewell Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/kodaline-farewell-tour-tickets/1195578847?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-16"><td>2026-12-16</td><td>Ibeyi</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/ibeyi-tickets/1916762173?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2026-12-31"><td>2026-12-31</td><td>Kanii</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/kanii-tickets/2072582123?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-01-22"><td>2027-01-22</td><td>Jero19 - Tour von Seite</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/jero19-tour-von-seite-tickets/2040775824?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-01-23"><td>2027-01-23</td><td>Adéla - The Red Bottoms Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/adela-the-red-bottoms-tour-tickets/1167215021?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-01-26"><td>2027-01-26</td><td>LEVIN LIAM - PECH TOUR 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/levin-liam-pech-tour-2027-tickets/896569309?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-01-29"><td>2027-01-29</td><td>Isaiah Rashad - Lil Sunny’s Awful Road Trip</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/isaiah-rashad-lil-sunnys-awful-road-trip-tickets/1370107614?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-01"><td>2027-02-01</td><td>SiM - Hooman After All World Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sim-hooman-after-all-world-tour-tickets/1208482684?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-02"><td>2027-02-02</td><td>Almost Monday - Thank God It´s Almost Monday Tour UK / Europe 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/almost-monday-thank-god-its-almost-monday-tour-uk-europe-2027-tickets/495713160?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-09"><td>2027-02-09</td><td>Lauren Sanderson - Come Say Sum Tour EU/UK 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/lauren-sanderson-come-say-sum-tour-eu-uk-2027-tickets/991676110?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-10"><td>2027-02-10</td><td>Melrose Avenue - UK / EU Tour 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/melrose-avenue-uk-eu-tour-2027-tickets/1547176260?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-12"><td>2027-02-12</td><td>Cameron Whitcomb - The Kingdom Of Fear EU/UK Tour 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/cameron-whitcomb-the-kingdom-of-fear-eu-uk-tour-2027-tickets/916990257?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-13"><td>2027-02-13</td><td>In Color - Live! EU / UK 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/in-color-live-eu-uk-2027-tickets/1373936224?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-14"><td>2027-02-14</td><td>Flowerovlove</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/flowerovlove-tickets/418437951?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-15"><td>2027-02-15</td><td>Malcolm Todd: Do That Again Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/malcolm-todd-do-that-again-tour-tickets/1754957884?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-16"><td>2027-02-16</td><td>KNOX - Midwest Best Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/knox-midwest-best-tour-tickets/593198338?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-16"><td>2027-02-16</td><td>Hudson Freeman - EU/UK 2027</td><td>Yard Club</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/hudson-freeman-eu-uk-2027-tickets/1688134077?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-17"><td>2027-02-17</td><td>JPEGMAFIA - &quot;Experimental Rap&quot; tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/jpegmafia-experimental-rap-tour-tickets/2095454597?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-18"><td>2027-02-18</td><td>Masego - Fix Your Face Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/masego-fix-your-face-tour-tickets/1815948553?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-24"><td>2027-02-24</td><td>Dead Poet Society</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/dead-poet-society-tickets/90263441?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-25"><td>2027-02-25</td><td>Amble - Europe 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/amble-europe-2027-tickets/1040114660?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-02-27"><td>2027-02-27</td><td>Emeli Sandé - Celebrating 15 Years Of ‘Our Version Of Events’</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/emeli-sande-celebrating-15-years-of-our-version-of-events-tickets/874341790?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-05"><td>2027-03-05</td><td>Delta Goodrem - PURE World Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/delta-goodrem-pure-world-tour-tickets/771486830?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-08"><td>2027-03-08</td><td>Tiny Habits - Keepers Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/tiny-habits-keepers-tour-tickets/637182351?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-11"><td>2027-03-11</td><td>KALEO - Way Down We Go Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/kaleo-way-down-we-go-tour-tickets/271356763?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-13"><td>2027-03-13</td><td>Teddy Swims - The UGLY Tour | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-%7C-premium-packages-tickets/16931033?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-13"><td>2027-03-13</td><td>Teddy Swims - The UGLY Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-tickets/47175509?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-14"><td>2027-03-14</td><td>Stella Lefty - LONG WAY HOME TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/stella-lefty-long-way-home-tour-tickets/213535660?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-14"><td>2027-03-14</td><td>Teddy Swims - The UGLY Tour | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-%7C-premium-packages-tickets/1647542945?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-14"><td>2027-03-14</td><td>Teddy Swims - The UGLY Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-tickets/1714471728?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-18"><td>2027-03-18</td><td>Sienna Spiro - My House Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sienna-spiro-my-house-tour-tickets/362172423?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-20"><td>2027-03-20</td><td>Boondawg - 10 LAP TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/boondawg-10-lap-tour-tickets/876629711?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-03-22"><td>2027-03-22</td><td>Fimiguerrero - LOST CITY</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/fimiguerrero-lost-city-tickets/819015245?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-04"><td>2027-04-04</td><td>Darren Kiely - The Space Between Dreams Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/darren-kiely-the-space-between-dreams-tour-tickets/827330606?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-12"><td>2027-04-12</td><td>Jake Bugg: Alamo - Solo Acoustic Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/jake-bugg-alamo-solo-acoustic-tour-tickets/715844958?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-13"><td>2027-04-13</td><td>Ian Hooper - On Tour April 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/ian-hooper-on-tour-april-2027-tickets/1991333183?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-21"><td>2027-04-21</td><td>Thirty Seconds to Mars Presents A Beautiful Lie vs This Is War</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/thirty-seconds-to-mars-presents-a-beautiful-lie-vs-this-is-war-tickets/1100407487?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-21"><td>2027-04-21</td><td>Thirty Seconds to Mars | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/thirty-seconds-to-mars-%7C-premium-packages-tickets/1886788638?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-23"><td>2027-04-23</td><td>Cave - Tour de Porz</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/227470585?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-24"><td>2027-04-24</td><td>LEA - Sieben Monde Arena Tour 2027 | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/lea-sieben-monde-arena-tour-2027-%7C-premium-packages-tickets/542993790?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-28"><td>2027-04-28</td><td>Simple Minds - European Tour - Live 2027 | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/simple-minds-european-tour-live-2027-%7C-premium-packages-tickets/1396792398?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-28"><td>2027-04-28</td><td>Simple Minds - European Tour - Live 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/simple-minds-european-tour-live-2027-tickets/657025936?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-04-28"><td>2027-04-28</td><td>James Marriott - World Tour 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/james-marriott-world-tour-2027-tickets/1725405661?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-05-04"><td>2027-05-04</td><td>Valley - Do You Need To Be Entertained? The Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/valley-do-you-need-to-be-entertained-the-tour-tickets/1602515820?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-05-07"><td>2027-05-07</td><td>ANGÈLE - INSTINCT TOUR</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/angele-instinct-tour-tickets/1639015342?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-05-16"><td>2027-05-16</td><td>Loreen: The Wildfire Tour | VIP Sound Check Party Ticket</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/loreen-the-wildfire-tour-%7C-vip-sound-check-party-ticket-tickets/1785934092?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-05-16"><td>2027-05-16</td><td>Loreen: The Wildfire Tour</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/loreen-the-wildfire-tour-tickets/73311312?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-05-23"><td>2027-05-23</td><td>SOMBR // You Are The Reason Tour // Cologne | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-%7C-premium-packages-tickets/1443200623?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-05-23"><td>2027-05-23</td><td>SOMBR // You Are The Reason Tour // Cologne</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-tickets/513660955?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-05-24"><td>2027-05-24</td><td>SOMBR // You Are The Reason Tour // Cologne | Premium Packages</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-%7C-premium-packages-tickets/321933731?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-05-24"><td>2027-05-24</td><td>SOMBR // You Are The Reason Tour // Cologne</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-tickets/512858326?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-09-11"><td>2027-09-11</td><td>Vega - Tour 2027</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/vega-tour-2027-tickets/538354153?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-12-15"><td>2027-12-15</td><td>Genetikk - Live 2027 | Premium Package</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/genetikk-live-2027-%7C-premium-package-tickets/2030323294?language=en-us" target="_blank" rel="noopener">Link</a></td></tr>
+<tr data-date="2027-12-31"><td>2027-12-31</td><td>KITSCHKRIEG - KITSCHKRIEG LIVE</td><td>Cologne</td><td class="source">ticketmaster</td><td><a href="https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/183819762?language=en-us" target="_blank" rel="noopener">Link</a></td></tr></tbody>
+    </table>
+  </div>
+
+<script>
+  // Einfache Client-seitige Sortierung per Spaltenkopf-Klick, kein Server nötig.
+  document.querySelectorAll('#all-table th.sortable').forEach(function (th) {
+    var asc = true;
+    th.addEventListener('click', function () {
+      var table = document.getElementById('all-table');
+      var tbody = table.querySelector('tbody');
+      var col = parseInt(th.getAttribute('data-col'), 10);
+      var rows = Array.from(tbody.querySelectorAll('tr'));
+      rows.sort(function (a, b) {
+        var av = a.children[col].innerText.trim().toLowerCase();
+        var bv = b.children[col].innerText.trim().toLowerCase();
+        if (av < bv) return asc ? -1 : 1;
+        if (av > bv) return asc ? 1 : -1;
+        return 0;
+      });
+      rows.forEach(function (r) { tbody.appendChild(r); });
+      asc = !asc;
+    });
+  });
+</script>
+</body>
+</html>
