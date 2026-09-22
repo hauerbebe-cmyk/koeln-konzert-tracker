@@ -27,7 +27,7 @@ def _send_one(topic: str, event: Event) -> None:
     body = f"{event.artist} – {date_display}, {event.venue}"
 
     headers = {
-        "Title": "🎵 Neues Konzert in Köln!",
+        "Title": "Neues Konzert in Köln!",
         "Tags": "musical_note",
     }
     if event.url:
