@@ -88,4 +88,15 @@ def _parse_event(raw: dict, fallback_city: str) -> Event:
         city=fallback_city,
         source="ticketmaster",
         url=raw.get("url"),
+        image_url=_pick_image(raw.get("images", [])),
     )
+
+
+def _pick_image(images: list[dict]) -> str | None:
+    if not images:
+        return None
+    # Bevorzugt ein mittelgroßes 16:9-Bild fürs Thumbnail; sonst irgendeins nehmen.
+    for img in images:
+        if img.get("ratio") == "16_9" and 300 <= img.get("width", 0) <= 800:
+            return img.get("url")
+    return images[0].get("url")
