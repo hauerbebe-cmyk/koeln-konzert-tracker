@@ -1,1 +1,1433 @@
-[]
+[
+  {
+    "id": "7ca29b55143bc3eb",
+    "artist": "Teddy Swims - The UGLY Tour | Premium Packages",
+    "date": "2027-03-13T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-%7C-premium-packages-tickets/16931033?language=en-us"
+  },
+  {
+    "id": "3c6499c2c661ca1a",
+    "artist": "Teddy Swims - The UGLY Tour",
+    "date": "2027-03-13T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/teddy-swims-the-ugly-tour-tickets/47175509?language=en-us"
+  },
+  {
+    "id": "1c6a5a7e10963519",
+    "artist": "KoRn - EURO TOUR 2026 | Premium Packages",
+    "date": "2026-10-21T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/korn-euro-tour-2026-%7C-premium-packages-tickets/1649559989?language=en-us"
+  },
+  {
+    "id": "3c722a981d28b941",
+    "artist": "Stevie Wonder: Songs In The Key of Life Performances| Premium Packages",
+    "date": "2026-10-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/stevie-wonder-songs-in-the-key-of-life-performances%7C-premium-packages-tickets/222397779?language=en-us"
+  },
+  {
+    "id": "487e0636a2fb3bed",
+    "artist": "Niall Horan: Dinner Party Live On Tour",
+    "date": "2026-10-13T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/niall-horan-dinner-party-live-on-tour-tickets/1761038607?language=en-us"
+  },
+  {
+    "id": "efa9eb6def8330f2",
+    "artist": "Niall Horan: Dinner Party Live On Tour | Premium Packages",
+    "date": "2026-10-13T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/niall-horan-dinner-party-live-on-tour-%7C-premium-packages-tickets/990676054?language=en-us"
+  },
+  {
+    "id": "7c063db7c88979d9",
+    "artist": "Noah Kahan - The Great Divide Tour",
+    "date": "2026-11-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/noah-kahan-the-great-divide-tour-tickets/1168743299?language=en-us"
+  },
+  {
+    "id": "2c7916e13672fc7b",
+    "artist": "Noah Kahan - The Great Divide Tour | Premium Packages",
+    "date": "2026-11-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/noah-kahan-the-great-divide-tour-%7C-premium-packages-tickets/289769463?language=en-us"
+  },
+  {
+    "id": "5b7cf5b41948264d",
+    "artist": "Stevie Wonder: Songs In The Key of Life Performances",
+    "date": "2026-10-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/stevie-wonder-songs-in-the-key-of-life-performances-tickets/1900854364?language=en-us"
+  },
+  {
+    "id": "d7354b5691133573",
+    "artist": "Lake Street Dive - 2026 European Tour",
+    "date": "2026-09-30T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/lake-street-dive-2026-european-tour-tickets/765444700?language=en-us"
+  },
+  {
+    "id": "6ec5e6279a7c2072",
+    "artist": "Thirty Seconds to Mars Presents A Beautiful Lie vs This Is War",
+    "date": "2027-04-21T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/thirty-seconds-to-mars-presents-a-beautiful-lie-vs-this-is-war-tickets/1100407487?language=en-us"
+  },
+  {
+    "id": "22c139d6d0cbc283",
+    "artist": "Thirty Seconds to Mars | Premium Packages",
+    "date": "2027-04-21T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/thirty-seconds-to-mars-%7C-premium-packages-tickets/1886788638?language=en-us"
+  },
+  {
+    "id": "b672c7c23ce16076",
+    "artist": "David Duchovny - European Tour",
+    "date": "2026-10-13T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/david-duchovny-european-tour-tickets/1646060141?language=en-us"
+  },
+  {
+    "id": "9c1e0cac472d0f2c",
+    "artist": "Vundabar & Yot Club",
+    "date": "2026-09-23T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/vundabar--yot-club-tickets/1378785213?language=en-us"
+  },
+  {
+    "id": "3882d8c64a56250b",
+    "artist": "James Blake - Trying Times Tour",
+    "date": "2026-10-18T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/james-blake-trying-times-tour-tickets/1448464285?language=en-us"
+  },
+  {
+    "id": "f8eed1bb041802a7",
+    "artist": "KALEO - Way Down We Go Tour",
+    "date": "2027-03-11T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/kaleo-way-down-we-go-tour-tickets/271356763?language=en-us"
+  },
+  {
+    "id": "241772cb936f832c",
+    "artist": "Matt Hansen",
+    "date": "2026-10-27T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/matt-hansen-tickets/1020577044?language=en-us"
+  },
+  {
+    "id": "7e0c8767bb8db804",
+    "artist": "Freya Skye - Stars Align Tour",
+    "date": "2026-11-22T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/freya-skye-stars-align-tour-tickets/2068574992?language=en-us"
+  },
+  {
+    "id": "59c9767947421010",
+    "artist": "J. Cole: The Fall-Off Tour | Box-Seat",
+    "date": "2026-10-15T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/j-cole-the-fall-off-tour-%7C-box-seat-tickets/1117119435?language=en-us"
+  },
+  {
+    "id": "2ccb18d03506567f",
+    "artist": "J. Cole: The Fall-Off Tour",
+    "date": "2026-10-15T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/j-cole-the-fall-off-tour-tickets/1522846211?language=en-us"
+  },
+  {
+    "id": "4aa9953e1b4229da",
+    "artist": "Sienna Spiro - My House Tour",
+    "date": "2027-03-18T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sienna-spiro-my-house-tour-tickets/362172423?language=en-us"
+  },
+  {
+    "id": "6fdddf8792d681f4",
+    "artist": "The Home Team - The Crucible of Life European Tour 2026",
+    "date": "2026-10-31T18:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/the-home-team-the-crucible-of-life-european-tour-2026-tickets/482754674?language=en-us"
+  },
+  {
+    "id": "7a87454bf7b1bcfb",
+    "artist": "The Lemon Twigs",
+    "date": "2026-09-26T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/the-lemon-twigs-tickets/129038518?language=en-us"
+  },
+  {
+    "id": "1a5965871c0acb1a",
+    "artist": "Bryan Adams - Roll With The Punches Tour",
+    "date": "2026-10-03T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/bryan-adams-roll-with-the-punches-tour-tickets/1702612759?language=en-us"
+  },
+  {
+    "id": "6c2c741e11d7f3c7",
+    "artist": "Novulent - Live in Europe 2026",
+    "date": "2026-12-07T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/novulent-live-in-europe-2026-tickets/1810878115?language=en-us"
+  },
+  {
+    "id": "f73d41e5dd5b91a2",
+    "artist": "Nails",
+    "date": "2026-10-08T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/nails-tickets/1760591033?language=en-us"
+  },
+  {
+    "id": "9490e06454d8bce0",
+    "artist": "Nieve Ella - How Long Will It Take? | The Debut Album Tour",
+    "date": "2026-11-20T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/nieve-ella-how-long-will-it-take-%7C-the-debut-album-tour-tickets/2083023523?language=en-us"
+  },
+  {
+    "id": "c2ce16436543c6d5",
+    "artist": "VOILÀ presents MOONBLOOM: Where Music Meets Magic",
+    "date": "2026-12-02T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/voila-presents-moonbloom-where-music-meets-magic-tickets/839505285?language=en-us"
+  },
+  {
+    "id": "90684a9f1db2b898",
+    "artist": "Melrose Avenue - UK / EU Tour 2027",
+    "date": "2027-02-10T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/melrose-avenue-uk-eu-tour-2027-tickets/1547176260?language=en-us"
+  },
+  {
+    "id": "e840a247d811626a",
+    "artist": "My First Time",
+    "date": "2026-11-03T20:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/my-first-time-tickets/393422494?language=en-us"
+  },
+  {
+    "id": "002f7038a62dc889",
+    "artist": "The Fray - Autumn Light Tour",
+    "date": "2026-11-02T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/the-fray-autumn-light-tour-tickets/206986536?language=en-us"
+  },
+  {
+    "id": "28dd92298440ddf0",
+    "artist": "Stephen Wilson Jr. - Gary The Torch Tour",
+    "date": "2026-10-30T19:00:00Z",
+    "venue": "Theater am Tanzbrunnen",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/stephen-wilson-jr-gary-the-torch-tour-tickets/1889227323?language=en-us"
+  },
+  {
+    "id": "252491a3435a2f8d",
+    "artist": "Kodaline - Farewell Tour",
+    "date": "2026-12-09T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/kodaline-farewell-tour-tickets/1195578847?language=en-us"
+  },
+  {
+    "id": "f58034946227093d",
+    "artist": "SKELER - ‚Nightfall' World Tour",
+    "date": "2026-10-30T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/skeler-nightfall-world-tour-tickets/1926999911?language=en-us"
+  },
+  {
+    "id": "77483518ff0fe872",
+    "artist": "DeVotchKa - A Celebration of the Music of Little Miss Sunshine",
+    "date": "2026-10-17T18:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/devotchka-a-celebration-of-the-music-of-little-miss-sunshine-tickets/993743172?language=en-us"
+  },
+  {
+    "id": "970689971357a8f7",
+    "artist": "King Woman",
+    "date": "2026-10-01T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/king-woman-tickets/639483306?language=en-us"
+  },
+  {
+    "id": "bba73b7d16acc92e",
+    "artist": "54 Ultra - LIVE IN EU",
+    "date": "2026-10-11T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/54-ultra-live-in-eu-tickets/654747910?language=en-us"
+  },
+  {
+    "id": "6f4d3975ff15083a",
+    "artist": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
+    "date": "2026-11-15T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-tickets/815576469?language=en-us"
+  },
+  {
+    "id": "70c5506c7c50bef8",
+    "artist": "Genetikk - Live 2027 | Premium Package",
+    "date": "2027-12-15T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/genetikk-live-2027-%7C-premium-package-tickets/2030323294?language=en-us"
+  },
+  {
+    "id": "8ac0ff877ebe5068",
+    "artist": "Valley - Do You Need To Be Entertained? The Tour",
+    "date": "2027-05-04T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/valley-do-you-need-to-be-entertained-the-tour-tickets/1602515820?language=en-us"
+  },
+  {
+    "id": "1e32347d2df01f2b",
+    "artist": "Strangelove - The DEPECHE MODE Experience Black Celebration 2026",
+    "date": "2026-11-23T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/strangelove-the-depeche-mode-experience-black-celebration-2026-tickets/1055269406?language=en-us"
+  },
+  {
+    "id": "022d48fe4fdbae53",
+    "artist": "Drug Church",
+    "date": "2026-09-23T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/drug-church-tickets/1552182012?language=en-us"
+  },
+  {
+    "id": "c25d87b4bd4e80cb",
+    "artist": "Lauren Sanderson - Come Say Sum Tour EU/UK 2027",
+    "date": "2027-02-09T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/lauren-sanderson-come-say-sum-tour-eu-uk-2027-tickets/991676110?language=en-us"
+  },
+  {
+    "id": "dbec006dab57101b",
+    "artist": "Muna - Gets So Hot Tour",
+    "date": "2026-11-24T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/muna-gets-so-hot-tour-tickets/364655220?language=en-us"
+  },
+  {
+    "id": "6c6e1d5474860550",
+    "artist": "Mammoth",
+    "date": "2026-11-29T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/mammoth-tickets/1705530300?language=en-us"
+  },
+  {
+    "id": "c076ddd42a2b5f61",
+    "artist": "Flowerovlove",
+    "date": "2027-02-14T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/flowerovlove-tickets/418437951?language=en-us"
+  },
+  {
+    "id": "c806fd13a0a60a35",
+    "artist": "Jake Bugg: Alamo - Solo Acoustic Tour",
+    "date": "2027-04-12T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/jake-bugg-alamo-solo-acoustic-tour-tickets/715844958?language=en-us"
+  },
+  {
+    "id": "b32e820c8e977cc6",
+    "artist": "Almost Monday - Thank God It´s Almost Monday Tour UK / Europe 2027",
+    "date": "2027-02-02T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/almost-monday-thank-god-its-almost-monday-tour-uk-europe-2027-tickets/495713160?language=en-us"
+  },
+  {
+    "id": "deb92cb7a9a62c60",
+    "artist": "RUEL - Kicking & Screaming UK + EU Tour",
+    "date": "2026-10-18T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/ruel-kicking--screaming-uk--eu-tour-tickets/1492958486?language=en-us"
+  },
+  {
+    "id": "00832fb83b178ea8",
+    "artist": "Simple Minds - European Tour - Live 2027 | Premium Packages",
+    "date": "2027-04-28T17:45:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/simple-minds-european-tour-live-2027-%7C-premium-packages-tickets/1396792398?language=en-us"
+  },
+  {
+    "id": "3e6a5bc6eab2f453",
+    "artist": "Simple Minds - European Tour - Live 2027",
+    "date": "2027-04-28T17:45:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/simple-minds-european-tour-live-2027-tickets/657025936?language=en-us"
+  },
+  {
+    "id": "a31c08a216c99f08",
+    "artist": "Slayyyter - WOR$T GIRL IN THE WORLD TOUR",
+    "date": "2026-10-20T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/slayyyter-wort-girl-in-the-world-tour-tickets/1384236022?language=en-us"
+  },
+  {
+    "id": "e2287f8e0324ca2e",
+    "artist": "Dead Poet Society",
+    "date": "2027-02-24T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/dead-poet-society-tickets/90263441?language=en-us"
+  },
+  {
+    "id": "8a57e046f3aca3b7",
+    "artist": "Placebo - 30th Anniversary Tour",
+    "date": "2026-11-02T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/953319605?language=en-us"
+  },
+  {
+    "id": "d410933843e5b403",
+    "artist": "Ryan Beatty - Arms Over Armor Tour",
+    "date": "2026-11-02T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/ryan-beatty-arms-over-armor-tour-tickets/962837786?language=en-us"
+  },
+  {
+    "id": "97e4380856a79ba4",
+    "artist": "Lilyisthatyou - THE FLOWERS HAVE FEELINGS TOUR",
+    "date": "2026-09-25T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/lilyisthatyou-the-flowers-have-feelings-tour-tickets/783355117?language=en-us"
+  },
+  {
+    "id": "2cc616c4e399792a",
+    "artist": "JULIA WOLF - Deep End World Tour 2026",
+    "date": "2026-11-28T20:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/julia-wolf-deep-end-world-tour-2026-tickets/1585752132?language=en-us"
+  },
+  {
+    "id": "868a394270de2935",
+    "artist": "glaive - God Save The Three Tour",
+    "date": "2026-11-17T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/glaive-god-save-the-three-tour-tickets/734806777?language=en-us"
+  },
+  {
+    "id": "b428e83c4e826ae0",
+    "artist": "Lip Critic",
+    "date": "2026-10-29T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/lip-critic-tickets/596166272?language=en-us"
+  },
+  {
+    "id": "45082f6b09b8abf5",
+    "artist": "KNOX - Midwest Best Tour",
+    "date": "2027-02-16T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/knox-midwest-best-tour-tickets/593198338?language=en-us"
+  },
+  {
+    "id": "23c138c20cd65e8a",
+    "artist": "Mad Tsai - The BITE BACK Tour",
+    "date": "2026-09-28T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/mad-tsai-the-bite-back-tour-tickets/310250275?language=en-us"
+  },
+  {
+    "id": "a9c570ef79129edf",
+    "artist": "Jhariah - The Trust Ceremony UK / EU Tour",
+    "date": "2026-10-13T18:00:00Z",
+    "venue": "Garagen",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/jhariah-the-trust-ceremony-uk-eu-tour-tickets/981298951?language=en-us"
+  },
+  {
+    "id": "3941f28d8edc6000",
+    "artist": "LEVELLERS - 35 YEARS LEVELLING THE LAND",
+    "date": "2026-10-16T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/levellers-35-years-levelling-the-land-tickets/1595449171?language=en-us"
+  },
+  {
+    "id": "481a948cd5cf6625",
+    "artist": "Elder Island - 2026",
+    "date": "2026-11-20T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/elder-island-2026-tickets/562353330?language=en-us"
+  },
+  {
+    "id": "874009b0f4a6c427",
+    "artist": "Eloise",
+    "date": "2026-11-16T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/eloise-tickets/1406232755?language=en-us"
+  },
+  {
+    "id": "df144f2fb9078861",
+    "artist": "Allie Sherlock - For Once I'll Say It Out loud Tour",
+    "date": "2026-09-22T18:00:00Z",
+    "venue": "Gloria",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/allie-sherlock-for-once-ill-say-it-out-loud-tour-tickets/1777061998?language=en-us"
+  },
+  {
+    "id": "40d9dabe21252383",
+    "artist": "JJ - Act II - Into The Unknown Tour",
+    "date": "2026-09-26T17:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/jj-act-ii-into-the-unknown-tour-tickets/689158877?language=en-us"
+  },
+  {
+    "id": "1be77431c3919bb1",
+    "artist": "JJ - Act ll - Into The Unknown Tour | VIP Ticket\t",
+    "date": "2026-09-26T17:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/jj-act-ll-into-the-unknown-tour-%7C-vip-ticket-tickets/581387494?language=en-us"
+  },
+  {
+    "id": "21cfdf192cf838dd",
+    "artist": "Tommy Lyon - Europe 2026",
+    "date": "2026-10-04T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/tommy-lyon-europe-2026-tickets/1763420626?language=en-us"
+  },
+  {
+    "id": "6c43e650d448e05e",
+    "artist": "Eli - STAGE GIRL",
+    "date": "2026-10-15T18:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/eli-stage-girl-tickets/1535219132?language=en-us"
+  },
+  {
+    "id": "b36e0fea24e4263a",
+    "artist": "Ivo Martin - MIT DIR WIRD MIR WARM TOUR 2026",
+    "date": "2026-10-18T17:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/ivo-martin-mit-dir-wird-mir-warm-tour-2026-tickets/1148769263?language=en-us"
+  },
+  {
+    "id": "a88a9f1388f5745d",
+    "artist": "Jamie Grey - Europe 2026",
+    "date": "2026-10-20T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/jamie-grey-europe-2026-tickets/1415291097?language=en-us"
+  },
+  {
+    "id": "bff48e06bda8ac52",
+    "artist": "Natanya",
+    "date": "2026-10-23T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/natanya-tickets/771705092?language=en-us"
+  },
+  {
+    "id": "d6827a00197774eb",
+    "artist": "The Bausa",
+    "date": "2026-10-27T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/the-bausa-tickets/1675061412?language=en-us"
+  },
+  {
+    "id": "d165c902433c2b31",
+    "artist": "NEUNUNDNEUNZIG - Nichts Für Immer Tour",
+    "date": "2026-10-29T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/neunundneunzig-nichts-fur-immer-tour-tickets/2071332032?language=en-us"
+  },
+  {
+    "id": "eb99820f351449bf",
+    "artist": "Tiffany Day - HALO TOUR EUROPE",
+    "date": "2026-11-30T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/tiffany-day-halo-tour-europe-tickets/1949849480?language=en-us"
+  },
+  {
+    "id": "067872fe96a52e2f",
+    "artist": "SON MIEUX - 24 Hours - EU Album Tour",
+    "date": "2026-11-20T20:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/son-mieux-24-hours-eu-album-tour-tickets/1706339564?language=en-us"
+  },
+  {
+    "id": "867c9b14e8cf5bd0",
+    "artist": "ONE OF THESE - a celebration of Pink Floyd - Animals Tour",
+    "date": "2026-11-27T18:30:00Z",
+    "venue": "Groove Bar & Lounge",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.universe.com/events/one-of-these-a-celebration-of-pink-floyd-animals-tour-tickets-0JS2X7?ref=ticketmaster"
+  },
+  {
+    "id": "6959840ba1e4b6fb",
+    "artist": "CHLOE SLATER - riot youth tour",
+    "date": "2026-11-27T19:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/chloe-slater-riot-youth-tour-tickets/1799902534?language=en-us"
+  },
+  {
+    "id": "1c37cb703f76352d",
+    "artist": "Sace6",
+    "date": "2026-11-30T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sace6-tickets/1269565831?language=en-us"
+  },
+  {
+    "id": "0017c2ad05d965d8",
+    "artist": "James Smith - GOLDEN AGE EUROPE TOUR 2026",
+    "date": "2026-12-01T19:00:00Z",
+    "venue": "Garagen",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/james-smith-golden-age-europe-tour-2026-tickets/1113628507?language=en-us"
+  },
+  {
+    "id": "68fd8d14ef04277c",
+    "artist": "GURRIERS - Nobody's Coming To Save You Tour 2026",
+    "date": "2026-12-01T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/gurriers-nobodys-coming-to-save-you-tour-2026-tickets/1883418129?language=en-us"
+  },
+  {
+    "id": "9bffc4961650fb3b",
+    "artist": "Pa Sheehy - The Magic We Found Tour",
+    "date": "2026-12-03T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/pa-sheehy-the-magic-we-found-tour-tickets/829310094?language=en-us"
+  },
+  {
+    "id": "502b301d84164491",
+    "artist": "Tiny Habits - Keepers Tour",
+    "date": "2027-03-08T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/tiny-habits-keepers-tour-tickets/637182351?language=en-us"
+  },
+  {
+    "id": "12d04c5b7ba03c49",
+    "artist": "Adéla - The Red Bottoms Tour",
+    "date": "2027-01-23T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/adela-the-red-bottoms-tour-tickets/1167215021?language=en-us"
+  },
+  {
+    "id": "aa9cb448fba44b06",
+    "artist": "In Color - Live! EU / UK 2027",
+    "date": "2027-02-13T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/in-color-live-eu-uk-2027-tickets/1373936224?language=en-us"
+  },
+  {
+    "id": "7bde3ede90dd2bf8",
+    "artist": "Hudson Freeman - EU/UK 2027",
+    "date": "2027-02-16T19:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/hudson-freeman-eu-uk-2027-tickets/1688134077?language=en-us"
+  },
+  {
+    "id": "328368b881637fdb",
+    "artist": "Delta Goodrem - PURE World Tour",
+    "date": "2027-03-05T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/delta-goodrem-pure-world-tour-tickets/771486830?language=en-us"
+  },
+  {
+    "id": "1f4c62f5ed85d402",
+    "artist": "Stella Lefty - LONG WAY HOME TOUR",
+    "date": "2027-03-14T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/stella-lefty-long-way-home-tour-tickets/213535660?language=en-us"
+  },
+  {
+    "id": "43edfeedc2102b86",
+    "artist": "Darren Kiely - The Space Between Dreams Tour",
+    "date": "2027-04-04T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/darren-kiely-the-space-between-dreams-tour-tickets/827330606?language=en-us"
+  },
+  {
+    "id": "4132815ffe536186",
+    "artist": "Ian Hooper - On Tour April 2027",
+    "date": "2027-04-13T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/ian-hooper-on-tour-april-2027-tickets/1991333183?language=en-us"
+  },
+  {
+    "id": "bac52f18a66fc043",
+    "artist": "LEA - Sieben Monde Arena Tour 2027 | Premium Packages",
+    "date": "2027-04-24T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/lea-sieben-monde-arena-tour-2027-%7C-premium-packages-tickets/542993790?language=en-us"
+  },
+  {
+    "id": "0652a006326ef32a",
+    "artist": "James Marriott - World Tour 2027",
+    "date": "2027-04-28T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/james-marriott-world-tour-2027-tickets/1725405661?language=en-us"
+  },
+  {
+    "id": "978d7eb57894405d",
+    "artist": "ANGÈLE - INSTINCT TOUR",
+    "date": "2027-05-07T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/angele-instinct-tour-tickets/1639015342?language=en-us"
+  },
+  {
+    "id": "f4c21bbd0a8cbd00",
+    "artist": "Loreen: The Wildfire Tour | VIP Sound Check Party Ticket",
+    "date": "2027-05-16T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/loreen-the-wildfire-tour-%7C-vip-sound-check-party-ticket-tickets/1785934092?language=en-us"
+  },
+  {
+    "id": "bc774f575ed75aa9",
+    "artist": "Loreen: The Wildfire Tour",
+    "date": "2027-05-16T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/loreen-the-wildfire-tour-tickets/73311312?language=en-us"
+  },
+  {
+    "id": "8da858abcaecfcbd",
+    "artist": "Undeath",
+    "date": "2026-11-02T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/undeath-tickets/1876149761?language=en-us"
+  },
+  {
+    "id": "72a0acdc541ce86a",
+    "artist": "Ash - 1977 30th Anniversary Tour",
+    "date": "2026-11-11T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/ash-1977-30th-anniversary-tour-tickets/1672833887?language=en-us"
+  },
+  {
+    "id": "c2bb6f683f50f459",
+    "artist": "JPEGMAFIA - \"Experimental Rap\" tour",
+    "date": "2027-02-17T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/jpegmafia-experimental-rap-tour-tickets/2095454597?language=en-us"
+  },
+  {
+    "id": "7247af02d4ed5e05",
+    "artist": "Saint Levant - AFANDI WORLD TOUR",
+    "date": "2026-11-08T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/saint-levant-afandi-world-tour-tickets/1864661934?language=en-us"
+  },
+  {
+    "id": "960292f70c7c4c90",
+    "artist": "SOMBR // You Are The Reason Tour // Cologne | Premium Packages",
+    "date": "2027-05-23T17:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-%7C-premium-packages-tickets/1443200623?language=en-us"
+  },
+  {
+    "id": "9d7a71a18f9bc05c",
+    "artist": "SOMBR // You Are The Reason Tour // Cologne",
+    "date": "2027-05-23T17:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-tickets/513660955?language=en-us"
+  },
+  {
+    "id": "753f29133029096c",
+    "artist": "Euroblast Festival 2026",
+    "date": "2026-09-25T13:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.universe.com/events/euroblast-festival-2026-tickets-NBJF2G?ref=ticketmaster"
+  },
+  {
+    "id": "926869482f1e3b42",
+    "artist": "EST Gee - BIGGER THAN THE DEVIL TOUR",
+    "date": "2026-10-24T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/est-gee-bigger-than-the-devil-tour-tickets/1394485827?language=en-us"
+  },
+  {
+    "id": "89cfc0f07fe68ef8",
+    "artist": "HONNE - 10 Year anniversary tour",
+    "date": "2026-10-14T18:00:00Z",
+    "venue": "Stadthalle Köln",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/honne-10-year-anniversary-tour-tickets/1543605094?language=en-us"
+  },
+  {
+    "id": "2c6fe273ba3f2c10",
+    "artist": "Masego - Fix Your Face Tour",
+    "date": "2027-02-18T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/masego-fix-your-face-tour-tickets/1815948553?language=en-us"
+  },
+  {
+    "id": "da0c4f054e4abc79",
+    "artist": "Isaiah Rashad - Lil Sunny’s Awful Road Trip",
+    "date": "2027-01-29T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/isaiah-rashad-lil-sunnys-awful-road-trip-tickets/1370107614?language=en-us"
+  },
+  {
+    "id": "0a449f602e5caaf7",
+    "artist": "Kelela - new avatar live",
+    "date": "2026-10-28T20:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/kelela-new-avatar-live-tickets/1014368806?language=en-us"
+  },
+  {
+    "id": "e24015a7eca4cadb",
+    "artist": "Cameron Whitcomb - The Kingdom Of Fear EU/UK Tour 2027",
+    "date": "2027-02-12T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/cameron-whitcomb-the-kingdom-of-fear-eu-uk-tour-2027-tickets/916990257?language=en-us"
+  },
+  {
+    "id": "93fc2e56559abc81",
+    "artist": "WITCHZ presents ENTER AFTERLIFE World Tour 2026",
+    "date": "2026-10-04T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/witchz-presents-enter-afterlife-world-tour-2026-tickets/592597257?language=en-us"
+  },
+  {
+    "id": "a2df42c4a52a8b3f",
+    "artist": "WesGhost - If It's Not Forever",
+    "date": "2026-11-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/wesghost-if-its-not-forever-tickets/588026861?language=en-us"
+  },
+  {
+    "id": "4d67886c36c69417",
+    "artist": "ARLO PARKS - DESIRE TOUR",
+    "date": "2026-10-30T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/arlo-parks-desire-tour-tickets/1099643231?language=en-us"
+  },
+  {
+    "id": "dfd616cba99c2aa7",
+    "artist": "Emeli Sandé - Celebrating 15 Years Of ‘Our Version Of Events’",
+    "date": "2027-02-27T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/emeli-sande-celebrating-15-years-of-our-version-of-events-tickets/874341790?language=en-us"
+  },
+  {
+    "id": "f6d2baf2b2ec2641",
+    "artist": "Amble - Europe 2027",
+    "date": "2027-02-25T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/amble-europe-2027-tickets/1040114660?language=en-us"
+  },
+  {
+    "id": "b6a4d51494fc43ec",
+    "artist": "SiM - Hooman After All World Tour",
+    "date": "2027-02-01T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sim-hooman-after-all-world-tour-tickets/1208482684?language=en-us"
+  },
+  {
+    "id": "dfa686fef52fc385",
+    "artist": "Ibeyi",
+    "date": "2026-12-16T20:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/ibeyi-tickets/1916762173?language=en-us"
+  },
+  {
+    "id": "777ca4c0f9d89137",
+    "artist": "re6ce",
+    "date": "2026-11-24T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/re6ce-tickets/1265991687?language=en-us"
+  },
+  {
+    "id": "bd4c8c8cbf7d1f49",
+    "artist": "Violent Vira",
+    "date": "2026-11-19T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/violent-vira-tickets/2035899359?language=en-us"
+  },
+  {
+    "id": "ce71ad4c61c991c0",
+    "artist": "SPORTS",
+    "date": "2026-11-01T19:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sports-tickets/55209804?language=en-us"
+  },
+  {
+    "id": "44098f3f4ccad08a",
+    "artist": "OsamaSon - PSYKTURNAL TOUR",
+    "date": "2026-09-23T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/osamason-psykturnal-tour-tickets/935992857?language=en-us"
+  },
+  {
+    "id": "2670df39b2e188cb",
+    "artist": "Dizzee Rascal - We Want Bass Tour",
+    "date": "2026-10-06T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/dizzee-rascal-we-want-bass-tour-tickets/246688269?language=en-us"
+  },
+  {
+    "id": "fae445e1522943ae",
+    "artist": "bleood - Kill Your Idols Europe Tour",
+    "date": "2026-09-25T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/bleood-kill-your-idols-europe-tour-tickets/698686654?language=en-us"
+  },
+  {
+    "id": "db2c915cbb8e356d",
+    "artist": "Ben Ellis - Time Slows On Tour 2026\t",
+    "date": "2026-09-30T18:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/ben-ellis-time-slows-on-tour-2026-tickets/1946285034?language=en-us"
+  },
+  {
+    "id": "94c65da8c18abde7",
+    "artist": "STVW - Punk Rave Europe Tour 2026",
+    "date": "2026-10-08T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/stvw-punk-rave-europe-tour-2026-tickets/301069462?language=en-us"
+  },
+  {
+    "id": "36487a877b1fcafa",
+    "artist": "Lucy Bedroque - 003 Tour",
+    "date": "2026-10-08T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/lucy-bedroque-003-tour-tickets/810070018?language=en-us"
+  },
+  {
+    "id": "bd93b04d083977ed",
+    "artist": "Katherine Priddy",
+    "date": "2026-10-13T18:00:00Z",
+    "venue": "Jaki",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/katherine-priddy-tickets/1641118362?language=en-us"
+  },
+  {
+    "id": "719fff2691cc1731",
+    "artist": "SAM TOMPKINS - ARE WE GONNA SING? Tour",
+    "date": "2026-10-14T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sam-tompkins-are-we-gonna-sing-tour-tickets/312557709?language=en-us"
+  },
+  {
+    "id": "9d34f0bc09367ada",
+    "artist": "Father Of Peace - The Year Of Madness & The Mystery Century Tour",
+    "date": "2026-10-15T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/father-of-peace-the-year-of-madness--the-mystery-century-tour-tickets/527266732?language=en-us"
+  },
+  {
+    "id": "cf0da999d9847733",
+    "artist": "Yung Pepp - Die große kleine Tour 2026",
+    "date": "2026-10-17T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/764047606?language=en-us"
+  },
+  {
+    "id": "1c1f8af8cd6ada19",
+    "artist": "EVE - Scorpion Tour",
+    "date": "2026-10-25T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/342594291?language=en-us"
+  },
+  {
+    "id": "abcfc5e571a22220",
+    "artist": "Charlie Jeer",
+    "date": "2026-10-22T18:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/charlie-jeer-tickets/252158425?language=en-us"
+  },
+  {
+    "id": "eab42acf0ddba9cf",
+    "artist": "Dan Whitlam",
+    "date": "2026-10-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/dan-whitlam-tickets/830726106?language=en-us"
+  },
+  {
+    "id": "44e97f5c70d7ff26",
+    "artist": "UCHE YARA - BODYSCANNER Tour 2026",
+    "date": "2026-10-27T19:00:00Z",
+    "venue": "Jaki",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/uche-yara-bodyscanner-tour-2026-tickets/560505937?language=en-us"
+  },
+  {
+    "id": "00f0ff283d860a7e",
+    "artist": "Westside Cowboy",
+    "date": "2026-10-30T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/westside-cowboy-tickets/1720837633?language=en-us"
+  },
+  {
+    "id": "bb2921dc1f8b9108",
+    "artist": "THIZZY52 - BLOCKKIDS TOUR 2026",
+    "date": "2026-10-30T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/thizzy52-blockkids-tour-2026-tickets/1747423588?language=en-us"
+  },
+  {
+    "id": "39f54dab9c2bcc5d",
+    "artist": "La Sonora Santanera | Köln",
+    "date": "2026-11-22T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.universe.com/events/la-sonora-santanera-koln-tickets-2SM43V?ref=ticketmaster"
+  },
+  {
+    "id": "8c31f36732352886",
+    "artist": "Flawed Mangoes - The Killswitch Memories Tour",
+    "date": "2026-11-03T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/flawed-mangoes-the-killswitch-memories-tour-tickets/1319371382?language=en-us"
+  },
+  {
+    "id": "cf01744caef310ed",
+    "artist": "Tokyo Tea Room",
+    "date": "2026-11-04T19:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/tokyo-tea-room-tickets/1070335183?language=en-us"
+  },
+  {
+    "id": "e118bedcc3e3e3ae",
+    "artist": "Haute & Freddy",
+    "date": "2026-11-10T20:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/haute--freddy-tickets/1429275885?language=en-us"
+  },
+  {
+    "id": "fe5b745088b92591",
+    "artist": "Nemzzz - LOCKED IN",
+    "date": "2026-11-12T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/nemzzz-locked-in-tickets/1306287867?language=en-us"
+  },
+  {
+    "id": "5ebd85820a172309",
+    "artist": "KING NO-ONE - The Burden Of Empathy Tour 2026",
+    "date": "2026-11-17T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/king-no-one-the-burden-of-empathy-tour-2026-tickets/564225403?language=en-us"
+  },
+  {
+    "id": "638eb2c52da05ae2",
+    "artist": "NEONI - HOW TO KILL A FAIRYTALE TOUR",
+    "date": "2026-11-17T20:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/neoni-how-to-kill-a-fairytale-tour-tickets/356641496?language=en-us"
+  },
+  {
+    "id": "75809041eb96662f",
+    "artist": "Tinie Tempah - THE NIGHT´S NOT DEAD TOUR",
+    "date": "2026-11-21T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/tinie-tempah-the-nights-not-dead-tour-tickets/1665281885?language=en-us"
+  },
+  {
+    "id": "07368361db6a7cf4",
+    "artist": "Mietze Conte",
+    "date": "2026-11-19T19:00:00Z",
+    "venue": "Garagen",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/mietze-conte-tickets/1462194927?language=en-us"
+  },
+  {
+    "id": "32828748e4c6b57b",
+    "artist": "Murda - UZAY TOUR",
+    "date": "2026-11-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/murda-uzay-tour-tickets/193762292?language=en-us"
+  },
+  {
+    "id": "328b9bc2e9a6144d",
+    "artist": "moé - GESCHICHTEN DIE WIR NIEMANDEM ERZÄHLEN - LIVE 2026",
+    "date": "2026-11-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/moe-geschichten-die-wir-niemandem-erzahlen-live-2026-tickets/458877064?language=en-us"
+  },
+  {
+    "id": "cf2ae60c1a7996f6",
+    "artist": "MNEK - THE!! BULLDOZER!! TOUR!!",
+    "date": "2026-11-28T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/mnek-the-bulldozer-tour-tickets/1167340039?language=en-us"
+  },
+  {
+    "id": "82718f672d8c087b",
+    "artist": "EsDeeKid - Council House Rat Tour",
+    "date": "2026-11-29T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/esdeekid-council-house-rat-tour-tickets/257265610?language=en-us"
+  },
+  {
+    "id": "4e6a985758b389de",
+    "artist": "Lelo - New Detroit Vol 2: Mastiff: Pink Tiles Tour",
+    "date": "2026-12-04T18:00:00Z",
+    "venue": "Club Veedel",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/lelo-new-detroit-vol-2-mastiff-pink-tiles-tour-tickets/524381386?language=en-us"
+  },
+  {
+    "id": "e0373e0bf2d84253",
+    "artist": "NIMO: Home Sweet Home Arena Tour 2026",
+    "date": "2026-12-07T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/nimo-home-sweet-home-arena-tour-2026-tickets/1785864835?language=en-us"
+  },
+  {
+    "id": "a66f786f9a5e1dff",
+    "artist": "Kanii",
+    "date": "2026-12-31",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/kanii-tickets/2072582123?language=en-us"
+  },
+  {
+    "id": "309dd838ec3b272d",
+    "artist": "Jero19 - Tour von Seite",
+    "date": "2027-01-22T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/jero19-tour-von-seite-tickets/2040775824?language=en-us"
+  },
+  {
+    "id": "10a1b0e41e967fcd",
+    "artist": "Malcolm Todd: Do That Again Tour",
+    "date": "2027-02-15T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/malcolm-todd-do-that-again-tour-tickets/1754957884?language=en-us"
+  },
+  {
+    "id": "e1d6d6b19b78ff91",
+    "artist": "LEVIN LIAM - PECH TOUR 2027",
+    "date": "2027-01-26T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/levin-liam-pech-tour-2027-tickets/896569309?language=en-us"
+  },
+  {
+    "id": "a6a3fa1675c00aa0",
+    "artist": "Boondawg - 10 LAP TOUR",
+    "date": "2027-03-20T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/boondawg-10-lap-tour-tickets/876629711?language=en-us"
+  },
+  {
+    "id": "a409856b22746598",
+    "artist": "Fimiguerrero - LOST CITY",
+    "date": "2027-03-22T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/fimiguerrero-lost-city-tickets/819015245?language=en-us"
+  },
+  {
+    "id": "67f20ca4c14f480b",
+    "artist": "Cave - Tour de Porz",
+    "date": "2027-04-23T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/227470585?language=en-us"
+  },
+  {
+    "id": "c9be594a68dfd348",
+    "artist": "Vega - Tour 2027",
+    "date": "2027-09-11T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/vega-tour-2027-tickets/538354153?language=en-us"
+  },
+  {
+    "id": "613c95111fff90b0",
+    "artist": "KITSCHKRIEG - KITSCHKRIEG LIVE",
+    "date": "2027-12-31",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/kitschkrieg-kitschkrieg-live-tickets/183819762?language=en-us"
+  }
+]
