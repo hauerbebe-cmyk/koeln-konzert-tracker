@@ -1489,5 +1489,16 @@
     "source": "ticketmaster",
     "url": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-cologne-tickets/512858326?language=en-us",
     "added_at": "2026-09-22T15:56:55.069277+00:00"
+  },
+  {
+    "id": "d9f2e41c80e96bce",
+    "artist": "Hilary Duff: the lucky me tour",
+    "date": "2027-05-18T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/hilary-duff-the-lucky-me-tour-tickets/1486297017?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/31c/0e6359f4-911a-418f-b793-e285c668931c_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-09-23T17:06:24.927623+00:00"
   }
 ]
