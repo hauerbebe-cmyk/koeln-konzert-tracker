@@ -21,37 +21,42 @@ def fetch(city: str = TARGET_CITY) -> list[Event]:
     client = EventimClient(EventimMarket.GERMANY)
     events: list[Event] = []
     total_seen = 0
-    sample_logged = False
 
     for product_group in client.product_groups(
         categories=[EventimCategory.CONCERTS], page_limit=10
     ):
         total_seen += 1
-        group_city = getattr(product_group, "city", None) or getattr(
-            product_group, "location", ""
-        )
-
-        # Debug: einmalig zeigen, wie ein Rohdaten-Objekt aussieht, damit wir
-        # sehen, ob "city"/"location" überhaupt sinnvoll befüllt sind.
-        if not sample_logged:
-            print(f"[DEBUG eventim] Beispiel-Objekt: {vars(product_group)}", file=sys.stderr)
-            sample_logged = True
+        location = _extract_location(product_group)
+        group_city = (location or {}).get("city", "")
 
         if city.lower() not in str(group_city).lower():
             continue
+
+        venue_name = (location or {}).get("name") or group_city or city
 
         events.append(
             Event(
                 artist=getattr(product_group, "name", "Unbekannter Act"),
                 date=str(getattr(product_group, "start_date", "")),
-                venue=str(group_city) or city,
+                venue=venue_name,
                 city=city,
                 source="eventim",
-                url=getattr(product_group, "url", None),
-                image_url=getattr(product_group, "image", None)
-                or getattr(product_group, "image_url", None),
+                url=getattr(product_group, "link", None),
+                image_url=getattr(product_group, "image_url", None),
             )
         )
 
     print(f"[DEBUG eventim] {total_seen} Konzerte insgesamt gesehen, {len(events)} nach Köln-Filter.", file=sys.stderr)
     return events
+
+
+def _extract_location(product_group) -> dict | None:
+    # Die Standort-Info steckt nicht am product_group selbst, sondern
+    # verschachtelt in den einzelnen Produkten darunter.
+    products = getattr(product_group, "products", None) or []
+    for product in products:
+        type_attrs = getattr(product, "type_attributes", None) or {}
+        live_ent = type_attrs.get("liveEntertainment") if isinstance(type_attrs, dict) else None
+        if live_ent and "location" in live_ent:
+            return live_ent["location"]
+    return None
