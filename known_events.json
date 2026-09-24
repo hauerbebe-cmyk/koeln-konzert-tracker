@@ -9376,5 +9376,60 @@
     "url": "https://www.eventim.de/en/artist/mickie-krause/krause-kommt-30-jahre-mickie-krause-4224079/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/mickie-krause-tickets-2026.jpg",
     "added_at": "2026-09-24T08:25:04.013269+00:00"
+  },
+  {
+    "id": "e11bd9b8f436e682",
+    "artist": "Singalong - Das Große Mitsing-Event",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "Quater 1",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/singalong-das-grosse-mitsing-event/singalong-das-grosse-mitsing-event-songs-aus-musicals-4095500/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/43/88/singalong---das-grosse-mitsing-event-tickets_356178_3032547_222x222.jpg",
+    "added_at": "2026-09-24T12:15:52.101330+00:00"
+  },
+  {
+    "id": "e12a16102d1e6254",
+    "artist": "Berq - Tour 2026",
+    "date": "2026-11-10 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/berq/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/berq-tickets-2025.jpg",
+    "added_at": "2026-09-24T12:15:52.101330+00:00"
+  },
+  {
+    "id": "c03d3b9ff3c2c73d",
+    "artist": "Kamelot - Europe Part II - Dark Asylum World Tour",
+    "date": "2027-03-05 19:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/kamelot/kamelot-europe-part-ii-dark-asylum-world-tour-4248668/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/k/kamelot-tickets-2024-02.jpg",
+    "added_at": "2026-09-24T12:15:52.101330+00:00"
+  },
+  {
+    "id": "35eb2f5edeae762d",
+    "artist": "League of Distortion - Sick of Bullshit Tour 2027",
+    "date": "2027-04-30 20:00:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/league-of-distortion/league-of-distortion-sick-of-bullshit-tour-2027-4248272/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/league-of-distortion-tickets-2026.jpg",
+    "added_at": "2026-09-24T12:15:52.101330+00:00"
+  },
+  {
+    "id": "1331e4deb54fe2db",
+    "artist": "Purple Schulz - ICH HAB NICHT EWIG ZEIT! - Die Jubiläumstour 2027",
+    "date": "2027-03-12 20:02:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/purple-schulz/purple-schulz-ich-hab-nicht-ewig-zeit-die-jubilaeumstour-2027-4093420/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/aa/31/berliner-kabarett-theater--die-wuehlmaeuse--tickets_607824_4612515_222x222.jpg",
+    "added_at": "2026-09-24T12:15:52.101330+00:00"
   }
 ]
