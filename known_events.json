@@ -9453,5 +9453,126 @@
     "url": "https://www.eventim.de/en/artist/league-of-distortion/league-of-distortion-sick-of-bullshit-tour-2027-4248272/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/league-of-distortion-tickets-2026.jpg",
     "added_at": "2026-09-24T17:05:51.732264+00:00"
+  },
+  {
+    "id": "869a946e212e33ce",
+    "artist": "Bloodsucking Zombies From Outer Space",
+    "date": "2026-09-25 19:45:00+02:00",
+    "venue": "MTC Club",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/bloodsucking-zombies-from-outer-space/",
+    "image_url": null,
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "ffc2ea2fbe0b6907",
+    "artist": "NEEVE - that’s how I survive - Tour 2026",
+    "date": "2026-09-25 20:00:00+02:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/neeve/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/neeve-thats-how-i-survive-tickets-2025.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "cdee3cec7ebe1da2",
+    "artist": "KITSCHKRIEG - KITSCHKRIEG LIVE",
+    "date": "2026-09-25 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/kitschkrieg/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/kitschkrieg-0626-tickets-2026.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "8a9875def3aa8d5c",
+    "artist": "Call It Off - Eras Tour goes poppunk - Germany 2026",
+    "date": "2026-09-25 20:00:00+02:00",
+    "venue": "MTC Club",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/call-it-off/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/6c/78/call-it-off-eras-tour-goes-poppunk---germany-2026-tickets_531374_4164127_222x222.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "2f27bb84fedca626",
+    "artist": "Niemals Tour 2026",
+    "date": "2026-09-27 20:00:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/niemals/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/a5/ef/niemals-tour-2026-tickets_504199_3990604_222x222.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "a6ad8310939ead23",
+    "artist": "Lotte - Wenn du tanzen willst Tour 2026",
+    "date": "2026-09-25 19:30:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lotte/lotte-wenn-du-tanzen-willst-tour-2026-3107405/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/lotte-tickets-2025.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "ed47a39c1ce54400",
+    "artist": "SYNTHONY - Europe Tour 2026: A Generation of Dance Music",
+    "date": "2026-09-25 19:30:00+02:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/synthony/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/synthony-tickets-2026.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "ab3e348cc6f9e371",
+    "artist": "Malou Lovis - soft season tour",
+    "date": "2026-09-25 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/malou-lovis/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/malou-lovis-tickets-2026.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "5dbf5908b2b9e591",
+    "artist": "Ufo361 - LIVE 2026",
+    "date": "2026-09-25 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/ufo361/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/ufo361-tickets-2026.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "7c099c931ea0a2db",
+    "artist": "William Wahl - wahlweise",
+    "date": "2026-09-25 20:00:00+02:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/william-wahl/william-wahl-wahlweise-3500394/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/00/85/william-wahl-tickets_471549_3774177_222x222.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
+  },
+  {
+    "id": "d132d3ce13c616ef",
+    "artist": "Räuber - Oben Unten Links Rechts",
+    "date": "2026-09-25 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/raeuber-band/raeuber-oben-unten-links-rechts-3910238/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/raeuber-tickets-2025.jpg",
+    "added_at": "2026-09-25T07:13:28.660109+00:00"
   }
 ]
