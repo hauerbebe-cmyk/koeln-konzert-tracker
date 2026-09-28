@@ -10300,5 +10300,60 @@
     "url": "https://www.eventim.de/en/artist/andy-borg/schlager-spass-mit-andy-borg-und-gaesten-3172152/",
     "image_url": "https://www.eventim.de/obj/mam/germany/04/30/schlager---spass-mit-andy-borg-und-gaesten-tickets_341954_2917305_222x222.jpg",
     "added_at": "2026-09-28T07:15:14.833520+00:00"
+  },
+  {
+    "id": "97d9dc5783ccd556",
+    "artist": "Palace - Europe & UK 2027",
+    "date": "2027-03-15T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/palace-europe--uk-2027-tickets/1318295218?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/4fe/13f5f33b-1fd2-4f64-bd3d-d69379a4a4fe_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-09-28T12:17:08.067678+00:00"
+  },
+  {
+    "id": "57ef446d970d19d6",
+    "artist": "JACK KAYS  - JACK KAYS AND HIS BAND",
+    "date": "2027-04-12T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/jack-kays-jack-kays-and-his-band-tickets/176381742?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/b5d/c75d7810-7849-45a6-a7d2-952d82ac2b5d_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-09-28T12:17:08.067678+00:00"
+  },
+  {
+    "id": "1c4224611e315718",
+    "artist": "Frankie Stew and Harvey Gunn - good bye for now",
+    "date": "2027-02-11T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/frankie-stew-and-harvey-gunn-good-bye-for-now-tickets/960198923?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/e6b/121b0a3a-e2d0-43cc-825c-671b2c383e6b_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-09-28T12:17:08.067678+00:00"
+  },
+  {
+    "id": "703b5b5f45a97447",
+    "artist": "Joy Oladokun",
+    "date": "2027-04-19 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/joy-oladokun/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/86/b6/joy-oladokun-tickets_618317_4671187_222x222.jpg",
+    "added_at": "2026-09-28T12:17:08.067678+00:00"
+  },
+  {
+    "id": "7a4d79fbed97e265",
+    "artist": "ERASURE - RADIO!! RADIO!! TOUR",
+    "date": "2027-05-15 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/erasure/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/erasure-tickets-2026.jpg",
+    "added_at": "2026-09-28T12:17:08.067678+00:00"
   }
 ]
