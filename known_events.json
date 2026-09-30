@@ -10652,5 +10652,93 @@
     "url": "https://www.eventim.de/en/artist/tyler-hilton/",
     "image_url": "https://www.eventim.de/obj/mam/eventim.light/76/bd/tyler-hilton-live-in-koeln-tickets_617997_4674097_222x222.jpg",
     "added_at": "2026-09-30T07:15:55.940794+00:00"
+  },
+  {
+    "id": "5f2a5c71e3908154",
+    "artist": "Giant Rooks - IF HEAVEN EXISTS, THIS MIGHT BE IT TOUR 2026",
+    "date": "2026-10-02 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/giant-rooks/giant-rooks-if-heaven-exists-this-might-be-it-tour-2026-4025390/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/giant-rooks-1308-tickets-2026.jpg",
+    "added_at": "2026-09-30T17:07:52.353405+00:00"
+  },
+  {
+    "id": "acca0b4f756f3fe8",
+    "artist": "Filow - Live 2026",
+    "date": "2026-11-16 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/filow/",
+    "image_url": null,
+    "added_at": "2026-09-30T17:07:52.353405+00:00"
+  },
+  {
+    "id": "3f242c57a7b5ba51",
+    "artist": "Kool & The Gang",
+    "date": "2027-03-06 20:00:00+01:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/kool-and-the-gang/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/4d/c6/kool---the-gang-tickets_601639_4576151_222x222.jpg",
+    "added_at": "2026-09-30T17:07:52.353405+00:00"
+  },
+  {
+    "id": "d6541a48db9872a7",
+    "artist": "Paula Cole - This Fire: 30",
+    "date": "2027-03-09 20:00:00+01:00",
+    "venue": "Stadtgarten Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/paula-cole/",
+    "image_url": null,
+    "added_at": "2026-09-30T17:07:52.353405+00:00"
+  },
+  {
+    "id": "5e17e8281276a7ef",
+    "artist": "Storm Seeker - Hang Us High Tour 2027",
+    "date": "2027-02-11 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/storm-seeker/storm-seeker-sailors-rowers-gunners-tour-2027-3831188/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/storm-seeker-tickets-2026.jpg",
+    "added_at": "2026-09-30T17:07:52.353405+00:00"
+  },
+  {
+    "id": "d3e8ac74857b3168",
+    "artist": "HAGANE - Through The Night - European Tour Part 1",
+    "date": "2027-04-13 18:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hagane/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/hagane-0926-tickets-2026.jpg",
+    "added_at": "2026-09-30T17:07:52.353405+00:00"
+  },
+  {
+    "id": "d2ecbbf76ccc98ea",
+    "artist": "Höhner - Küss de met Tour 2027",
+    "date": "2027-09-30 20:00:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hoehner/hoehner-kuess-de-met-tour-2027-3853682/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/hoehner-kuess-de-met-tickets-2026.jpg",
+    "added_at": "2026-09-30T17:07:52.353405+00:00"
+  },
+  {
+    "id": "35e1efb3ee28d45a",
+    "artist": "NightWash - Das Sing Ding | Das lustigste Mit-Sing-Konzert aller Zeiten! - Tour 2027",
+    "date": "2027-03-03 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nightwash-live/nightwash-das-sing-ding-das-lustigste-mit-sing-konzert-aller-zeiten-tour-2027-4251249/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/das-sing-ding-tickets-2026.jpg",
+    "added_at": "2026-09-30T17:07:52.353405+00:00"
   }
 ]
