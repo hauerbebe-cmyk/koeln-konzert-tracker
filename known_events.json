@@ -10839,5 +10839,38 @@
     "url": "https://www.eventim.de/en/artist/andy-borg/schlager-spass-mit-andy-borg-und-gaesten-3172152/",
     "image_url": "https://www.eventim.de/obj/mam/germany/04/30/schlager---spass-mit-andy-borg-und-gaesten-tickets_341954_2917305_222x222.jpg",
     "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "1e0cf9ef0f89a032",
+    "artist": "Don Chisciotte della Mancia - von Hans Werner Henzes",
+    "date": "2026-11-06 19:30:00+01:00",
+    "venue": "Hochschule für Musik und Tanz Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hochschule-fuer-musik-und-tanz-koeln/don-chisciotte-della-mancia-von-hans-werner-henzes-4249729/",
+    "image_url": null,
+    "added_at": "2026-10-01T12:18:30.815967+00:00"
+  },
+  {
+    "id": "557c97e4580b3232",
+    "artist": "Tutti Bounce - Live 2027",
+    "date": "2027-02-22 19:00:00+01:00",
+    "venue": "Yard Club",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tutti-bounce/",
+    "image_url": null,
+    "added_at": "2026-10-01T12:18:30.815967+00:00"
+  },
+  {
+    "id": "194e9aece5e6826e",
+    "artist": "ELEMENT OF CRIME - Sommer 2027",
+    "date": "2027-09-18 18:30:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/element-of-crime/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/element-of-crime-tickets-2026.jpg",
+    "added_at": "2026-10-01T12:18:30.815967+00:00"
   }
 ]
