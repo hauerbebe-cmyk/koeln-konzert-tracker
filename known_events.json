@@ -10740,5 +10740,104 @@
     "url": "https://www.eventim.de/en/artist/nightwash-live/nightwash-das-sing-ding-das-lustigste-mit-sing-konzert-aller-zeiten-tour-2027-4251249/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/das-sing-ding-tickets-2026.jpg",
     "added_at": "2026-09-30T17:07:52.353405+00:00"
+  },
+  {
+    "id": "1cf3b70cc34a4b0d",
+    "artist": "Malou Lovis - soft season tour",
+    "date": "2026-10-01 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/malou-lovis/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/malou-lovis-tickets-2026.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "1f7aa3d00ed5ddd8",
+    "artist": "Bryan Adams - Roll With The Punches Tour 2026",
+    "date": "2026-10-02 20:00:00+02:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/bryan-adams/bryan-adams-roll-with-the-punches-tour-2026-4092005/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/bryan-adams-roll-with-the-punches-tickets-2026.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "f6d74e7fa9e2c4bb",
+    "artist": "OK KID - Komm, wir bleiben stehen - Tour 2026",
+    "date": "2026-10-01 19:30:00+02:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/ok-kid/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/ok-kid-komm-wir-bleiben-stehen-tickets-2026.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "0af15e961e1d17f1",
+    "artist": "William Wahl - wahlweise",
+    "date": "2026-10-01 20:00:00+02:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/william-wahl/william-wahl-wahlweise-3500394/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/00/85/william-wahl-tickets_471549_3774177_222x222.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "adecc3f83cae68d0",
+    "artist": "Tenside/Aurorawave  - Devour the Dark across Europe",
+    "date": "2026-10-02 19:00:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tenside/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/tenside-aurorawave-tickets-2026.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "465263ef401256ae",
+    "artist": "MC BOMBER - Die seriöse Tour",
+    "date": "2026-10-02 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/mc-bomber/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/4c/ea/mc-bomber-tickets_543529_4241832_222x222.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "10d2ca2f349ed91c",
+    "artist": "Tim Fischer - Chansons",
+    "date": "2026-10-01 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tim-fischer/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/b4/86/tim-fischer-tickets_487961_3893942_222x222.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "513d92ae6d1faad1",
+    "artist": "Räuber - Oben Unten Links Rechts",
+    "date": "2026-10-01 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/raeuber-band/raeuber-oben-unten-links-rechts-3910238/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/raeuber-tickets-2025.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
+  },
+  {
+    "id": "704cbd4da6fb9da8",
+    "artist": "Schlager & Spaß mit Andy Borg und Gästen",
+    "date": "2026-10-01 16:00:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/andy-borg/schlager-spass-mit-andy-borg-und-gaesten-3172152/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/04/30/schlager---spass-mit-andy-borg-und-gaesten-tickets_341954_2917305_222x222.jpg",
+    "added_at": "2026-10-01T07:15:47.892192+00:00"
   }
 ]
