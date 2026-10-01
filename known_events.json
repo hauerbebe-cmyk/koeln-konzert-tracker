@@ -10872,5 +10872,60 @@
     "url": "https://www.eventim.de/en/artist/element-of-crime/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/element-of-crime-tickets-2026.jpg",
     "added_at": "2026-10-01T12:18:30.815967+00:00"
+  },
+  {
+    "id": "06876b9bed80cc3a",
+    "artist": "Merkules - Europe 2 America Tour",
+    "date": "2026-11-24 20:00:00+01:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/merkules/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/merkules-tickets-2026.jpg",
+    "added_at": "2026-10-01T17:08:53.443990+00:00"
+  },
+  {
+    "id": "06a4df1661e78e43",
+    "artist": "Grup Abdal - Ditar",
+    "date": "2026-11-20 20:00:00+01:00",
+    "venue": "Alevitisches Kulturzentrum Rhein-Erft-Kreis",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/grup-abdal-ditar-4252676/",
+    "image_url": null,
+    "added_at": "2026-10-01T17:08:53.443990+00:00"
+  },
+  {
+    "id": "3dac64eed77da96d",
+    "artist": "Hilary Duff - the lucky me tour",
+    "date": "2027-05-12 20:00:00+02:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hilary-duff/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/hilary-duff-tickets-2026.jpg",
+    "added_at": "2026-10-01T17:08:53.443990+00:00"
+  },
+  {
+    "id": "61079d4e04656cc5",
+    "artist": "beslik - ALLES IST UNMÖGLICH TOUR 2027",
+    "date": "2027-05-02 19:45:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/beslik/beslik-alles-ist-unmoeglich-tour-2027-4161199/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/beslik-0926-tickets-2026.jpg",
+    "added_at": "2026-10-01T17:08:53.443990+00:00"
+  },
+  {
+    "id": "144147c303216397",
+    "artist": "Wdr Big Band | Joe Lovano & Dave Douglas",
+    "date": "2027-06-12 20:00:00+02:00",
+    "venue": "Hochschule für Musik und Tanz Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/wdr-big-band-meets-remy-le-boeuf-secret-songs-feat-julia-easterlin-3450904/",
+    "image_url": null,
+    "added_at": "2026-10-01T17:08:53.443990+00:00"
   }
 ]
