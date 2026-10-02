@@ -11235,5 +11235,16 @@
     "url": "https://www.eventim.de/en/artist/eldorado/eldorado-live-2027-2136918/",
     "image_url": "https://www.eventim.de/obj/mam/germany/73/d7/eldorado-live-2027-tickets_622993_4693363_222x222.jpg",
     "added_at": "2026-10-02T12:16:32.718343+00:00"
+  },
+  {
+    "id": "14314bf8e62518b6",
+    "artist": "Sofia Camara - Sincerely Yours, Tour",
+    "date": "2027-02-12T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sofia-camara-sincerely-yours-tour-tickets/388293311?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/f43/cf6a73d5-a668-4072-b4e0-853660842f43_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-02T17:06:51.543725+00:00"
   }
 ]
