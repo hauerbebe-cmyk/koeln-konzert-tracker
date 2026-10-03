@@ -11587,5 +11587,38 @@
     "url": "https://www.eventim.de/en/artist/kings-of-floyd/kings-of-floyd-dark-side-tour-3812902/",
     "image_url": "https://www.eventim.de/obj/mam/germany/25/a3/kings-of-floyd-tickets_539934_4421768_222x222.jpg",
     "added_at": "2026-10-03T07:17:37.149966+00:00"
+  },
+  {
+    "id": "7e84d2b679cd59dc",
+    "artist": "Depeche Mode on piano - played by Thilo",
+    "date": "2026-10-03 09:20:00+02:00",
+    "venue": "Senftöpfchen Theater",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/thilo-boehnisch/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/35/76/depeche-mode-on-piano---played-by-thilo-tickets_617579_4664581_222x222.jpg",
+    "added_at": "2026-10-03T14:57:55.953699+00:00"
+  },
+  {
+    "id": "d53f809e2418e775",
+    "artist": "The Joni Project",
+    "date": "2027-02-17 20:00:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-joni-project/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/40/b5/the-joni-project-tickets_502372_3972218_222x222.jpg",
+    "added_at": "2026-10-03T14:57:55.953699+00:00"
+  },
+  {
+    "id": "a5e5041a93ba66df",
+    "artist": "Purple Disco Machine - Cosmotropia Live Tour 2027",
+    "date": "2027-10-08 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/purple-disco-machine/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/purple-disco-machine-2027-tickets-2026.jpg",
+    "added_at": "2026-10-03T14:57:55.953699+00:00"
   }
 ]
