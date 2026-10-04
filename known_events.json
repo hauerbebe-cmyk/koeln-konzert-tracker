@@ -11862,5 +11862,16 @@
     "url": "https://www.eventim.de/en/artist/kings-of-floyd/kings-of-floyd-dark-side-tour-3812902/",
     "image_url": "https://www.eventim.de/obj/mam/germany/25/a3/kings-of-floyd-tickets_539934_4421768_222x222.jpg",
     "added_at": "2026-10-04T15:02:00.781147+00:00"
+  },
+  {
+    "id": "2de12fb7fcf4009c",
+    "artist": "Kirik Summer Recall 10.10 Bootshaus Köln",
+    "date": "2026-10-10 23:00:00+02:00",
+    "venue": "Bootshaus",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/kirik-summer-recall-bootshaus-koeln-4255230/",
+    "image_url": null,
+    "added_at": "2026-10-04T18:13:37.982939+00:00"
   }
 ]
