@@ -11972,5 +11972,38 @@
     "url": "https://www.eventim.de/en/artist/phil-siemers/phil-siemers-solo-loop-tour-2026-4027789/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/phil-siemers-tickets-2026.jpg",
     "added_at": "2026-10-05T07:18:56.791352+00:00"
+  },
+  {
+    "id": "43e143e32694278d",
+    "artist": "Árstíðir - Vetrarsól Tour 2026",
+    "date": "2026-11-24 20:00:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/arstidir/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/a/arstidir-tickets-2024-02.jpg",
+    "added_at": "2026-10-05T12:17:39.866747+00:00"
+  },
+  {
+    "id": "876af1641e5e998c",
+    "artist": "Moonspell - God is a Vampire Tour 2027",
+    "date": "2027-03-06 19:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/moonspell/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/aa/a7/moonspell-tickets_622396_4691276_222x222.jpg",
+    "added_at": "2026-10-05T12:17:39.866747+00:00"
+  },
+  {
+    "id": "c1ebf29a107204dd",
+    "artist": "KONTRA K - AUS DER ASCHE TOUR 2027",
+    "date": "2027-10-19 20:00:00+02:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/kontra-k/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/kontra-k-aus-der-asche-tickets-2026.jpg",
+    "added_at": "2026-10-05T12:17:39.866747+00:00"
   }
 ]
