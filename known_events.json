@@ -12005,5 +12005,93 @@
     "url": "https://www.eventim.de/en/artist/kontra-k/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/kontra-k-aus-der-asche-tickets-2026.jpg",
     "added_at": "2026-10-05T12:17:39.866747+00:00"
+  },
+  {
+    "id": "9de57d8001ea8019",
+    "artist": "Mark Ambor - European & United Kingdom Solo Acoustic Tour",
+    "date": "2026-11-03T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/mark-ambor-european--united-kingdom-solo-acoustic-tour-tickets/381885528?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/bc8/348af89e-d4ec-4e6a-b1b0-6143d1bb4bc8_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-05T17:06:55.795641+00:00"
+  },
+  {
+    "id": "72761af0b20afaf1",
+    "artist": "Quadeca - Life 1 Tour",
+    "date": "2027-02-13T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/quadeca-life-1-tour-tickets/803921678?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/d38/bfdf6cc9-fb63-4771-b3f8-b6548259cd38_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-05T17:06:55.795641+00:00"
+  },
+  {
+    "id": "3c9f19c3f9cef97d",
+    "artist": "Bella Kay - The Reckless Tour",
+    "date": "2027-02-22T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/bella-kay-the-reckless-tour-tickets/1109724522?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/ea7/ccdae5b8-5be4-4e38-bca2-d0b31bed3ea7_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-05T17:06:55.795641+00:00"
+  },
+  {
+    "id": "315aef860c6d7033",
+    "artist": "BELLA POARCH - PICNIC AT THE CEMETERY TOUR",
+    "date": "2027-03-17T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/bella-poarch-picnic-at-the-cemetery-tour-tickets/1338811972?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/4af/56461997-9df5-410d-bba2-cde1a0d354af_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-05T17:06:55.795641+00:00"
+  },
+  {
+    "id": "47bcd4ac2f500d98",
+    "artist": "FLO – Therapy At The Club Tour",
+    "date": "2027-03-05T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/flo--therapy-at-the-club-tour-tickets/798533467?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/26e/c4a9f79f-23b1-4d3b-a0eb-270a86e0a26e_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-05T17:06:55.795641+00:00"
+  },
+  {
+    "id": "2bb0cd4169f07393",
+    "artist": "CF98",
+    "date": "2026-10-30 19:00:00+01:00",
+    "venue": "Garagen",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/cf98/cf98-4169730/",
+    "image_url": null,
+    "added_at": "2026-10-05T17:06:55.795641+00:00"
+  },
+  {
+    "id": "393ffec2bdedc110",
+    "artist": "BELLA KAY",
+    "date": "2027-02-22 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/bella-kay/",
+    "image_url": null,
+    "added_at": "2026-10-05T17:06:55.795641+00:00"
+  },
+  {
+    "id": "4147400a3759d059",
+    "artist": "FLO",
+    "date": "2027-03-05 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/flo/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/flo-tickets-2026.jpg",
+    "added_at": "2026-10-05T17:06:55.795641+00:00"
   }
 ]
