@@ -12192,5 +12192,82 @@
     "url": "https://www.eventim.de/en/artist/das-lumpenpack/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/das-lumpenpack-tickets-2025.jpg",
     "added_at": "2026-10-06T07:14:49.361014+00:00"
+  },
+  {
+    "id": "a6213e02a651b572",
+    "artist": "JOHN SUMMIT – EUROPE CTRL ESCAPE TOUR",
+    "date": "2027-02-19T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/john-summit--europe-ctrl-escape-tour-tickets/704561120?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/b99/44736a1a-46cb-41c3-8c65-d735b5a45b99_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-06T12:16:26.720037+00:00"
+  },
+  {
+    "id": "1e9e9e354bc9704a",
+    "artist": "Laith Al-Deen - „25 - Best Of“ Releasekonzert",
+    "date": "2026-10-10 20:00:00+02:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/laith-al-deen/laith-al-deen-25-best-of-releasekonzert-2523687/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/l/laith-ad-deen-tickets-2026-02.jpg",
+    "added_at": "2026-10-06T12:16:26.720037+00:00"
+  },
+  {
+    "id": "bea66d61d368051c",
+    "artist": "Beth Orton - Live 2027",
+    "date": "2027-02-18 20:00:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/beth-orton/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/o/beth-orton-okt-2012-tickets.jpg",
+    "added_at": "2026-10-06T12:16:26.720037+00:00"
+  },
+  {
+    "id": "24e4ca22bc00d4e3",
+    "artist": "Hollywood Undead - EU/UK 2027",
+    "date": "2027-01-29 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hollywood-undead/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/hollywood-undead-tour-tickets-2026.jpg",
+    "added_at": "2026-10-06T12:16:26.720037+00:00"
+  },
+  {
+    "id": "73054d1926961ae9",
+    "artist": "Micha - Live 2027",
+    "date": "2027-03-01 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/micha/micha-live-2027-4253292/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/micha-march-2027-tickets-2026.jpg",
+    "added_at": "2026-10-06T12:16:26.720037+00:00"
+  },
+  {
+    "id": "d932308ce1f09ee3",
+    "artist": "Moonspell - God is a Vampire Tour 2027",
+    "date": "2027-03-04 19:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/moonspell/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/m/moonspell-maerz-2015-tickets.jpg",
+    "added_at": "2026-10-06T12:16:26.720037+00:00"
+  },
+  {
+    "id": "530e6842cbba547a",
+    "artist": "Provinz - „Cry Baby Cry“ Tour 2027",
+    "date": "2027-11-12 20:00:00+01:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/provinz/provinz-cry-baby-cry-tour-2027-2901440/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/provinz-cry-baby-cry-tour-tickets-2026-pressebild.jpg",
+    "added_at": "2026-10-06T12:16:26.720037+00:00"
   }
 ]
