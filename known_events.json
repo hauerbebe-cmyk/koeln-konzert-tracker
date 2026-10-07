@@ -12379,5 +12379,49 @@
     "url": "https://www.eventim.de/en/artist/mamma-mia-party-son-thai/club40-partys-die-groessten-ue40-partys-4140826/",
     "image_url": "https://www.eventim.de/obj/mam/germany/6b/e1/club40-partys---die-groesste-ue40-party-tour-tickets_542074_4222889_222x222.jpg",
     "added_at": "2026-10-07T07:15:03.936238+00:00"
+  },
+  {
+    "id": "0335b5c65303467e",
+    "artist": "Weihnachtskonzert mit dem Hartwich Trio | Piano-Frenzy Musikschule",
+    "date": "2026-11-29 17:00:00+01:00",
+    "venue": "Piano-Frenzy Musikschule",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/weihnachtskonzert-mit-dem-hartwich-trio-piano-frenzy-musikschule-4257882/",
+    "image_url": null,
+    "added_at": "2026-10-07T12:18:57.189555+00:00"
+  },
+  {
+    "id": "7d233518408e188e",
+    "artist": "John Summit - Europe CTRL Escape Tour",
+    "date": "2027-02-18 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/john-summit/",
+    "image_url": null,
+    "added_at": "2026-10-07T12:18:57.189555+00:00"
+  },
+  {
+    "id": "20a703308a4899c9",
+    "artist": "Duo Jatekok",
+    "date": "2027-05-16 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/duo-jatekok/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/duo-jatekok-tickets-2026.jpg",
+    "added_at": "2026-10-07T12:18:57.189555+00:00"
+  },
+  {
+    "id": "459cd4060dad7922",
+    "artist": "Alexander Eder - Liebe & Krawall - Die Sommertour 2027",
+    "date": "2027-06-05 20:00:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/alexander-eder/alexander-eder-liebe-krawall-die-sommertour-2027-4249441/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/alexander-eder-tickets-2026.jpg",
+    "added_at": "2026-10-07T12:18:57.189555+00:00"
   }
 ]
