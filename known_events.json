@@ -12456,5 +12456,170 @@
     "url": "https://www.eventim.de/en/artist/nightwash-live/nightwash-das-sing-ding-das-lustigste-mit-sing-konzert-aller-zeiten-4251249/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/das-sing-ding-tickets-2026.jpg",
     "added_at": "2026-10-07T17:16:55.054779+00:00"
+  },
+  {
+    "id": "f029545166fac2d1",
+    "artist": "MUSIK IN DEN HÄUSERN DER STADT",
+    "date": "2026-10-08 19:00:00+02:00",
+    "venue": "Vringstreff",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/musik-in-den-haeusern-der-stadt/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/f8/ce/musik-in-den-haeusern-der-stadt-tickets_604491_4593062_222x222.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "005e055cddab47c7",
+    "artist": "Scott Quinn - Being Human Tour",
+    "date": "2026-10-08 20:00:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/scott-quinn/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/scott-quinn-tickets-2026.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "625d10e57a04a122",
+    "artist": "LowDown Brass Band",
+    "date": "2026-10-08 20:00:00+02:00",
+    "venue": "Stadtgarten Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lowdown-brass-band/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/lowdown-brass-band-0626-tickets-2026.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "e9b39140d9c138df",
+    "artist": "William Wahl - wahlweise",
+    "date": "2026-10-09 19:30:00+02:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/william-wahl/william-wahl-wahlweise-3500394/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/00/85/william-wahl-tickets_471549_3774177_222x222.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "d7dd35c76076c2e3",
+    "artist": "DAS LUMPENPACK - Bevor der Mut dich verlässt",
+    "date": "2026-10-08 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/das-lumpenpack/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/das-lumpenpack-tickets-2025.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "43e1653e3671f4e2",
+    "artist": "The Narrator - PHOSPHOR EUROPE TOUR 2026",
+    "date": "2026-10-08 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-narrator/the-narrator-phosphor-europe-tour-2026-3999525/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/the-narrator-0726-tickets-2026.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "62abf361e748a4f7",
+    "artist": "Niall Horan - Dinner Party Live On Tour",
+    "date": "2026-10-08 19:30:00+02:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/niall-horan/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/niall-horan-dinner-party-tickets-2026.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "7bc108b95102eda4",
+    "artist": "Matt Maeson - Watch My Step",
+    "date": "2026-10-08 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/matt-maeson/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/matt-maeson-tickets-2026.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "59df531b4f06450f",
+    "artist": "Wallis Bird - I Can See Your Tour From Here - Tour",
+    "date": "2026-10-08 20:00:00+02:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/wallis-bird/wallis-bird-i-can-see-your-tour-from-here-tour-4081515/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/wallis-bird-tour-26-tickets-2026.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "883a520af3e4aa56",
+    "artist": "The Devil Wears Prada - Flowers EU & UK MMXXVI",
+    "date": "2026-10-08 18:45:00+02:00",
+    "venue": "E-Werk Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-devil-wears-prada/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/the-devil-wears-prada-tickets-2025.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "fce8dda2125072d7",
+    "artist": "Irish Pogo +Plasma Peppone, Mischkonsum -  Party und Live Konzert | Blue Shell",
+    "date": "2026-10-16 20:00:00+02:00",
+    "venue": "Blue Shell",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/irish-pogo-plasma-peppone-mischkonsum-party-und-live-konzert-blue-shell-4258171/",
+    "image_url": null,
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "f2d9a35884a25c6c",
+    "artist": "Bläck Fööss",
+    "date": "2026-10-09 19:30:00+02:00",
+    "venue": "Kölner Philharmonie",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/blaeck-foeoess/blaeck-foeoess-3738392/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/a6/91/blaeck-foeoess-tickets_373129_3146226_222x222.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "80259e3b323b0f75",
+    "artist": "Arabic Clubbing - Ya TabTab Event",
+    "date": "2026-10-24 23:00:00+02:00",
+    "venue": "Electrum Köln GmbH",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/arabic-clubbing-ya-tabtab-event-4258038/",
+    "image_url": null,
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "bb9a57ae6cc933a8",
+    "artist": "Rudelsingen",
+    "date": "2026-10-14 19:30:00+02:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/rudelsingen/rudelsingen-1469802/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/89/03/das-1.-duisburger-rudelsingen-tickets_471582_3781033_222x222.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
+  },
+  {
+    "id": "3aea8b9eccb952ea",
+    "artist": "LaLeLu - a cappella comedy - Urlaub vom Hirn",
+    "date": "2026-10-08 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lalelu-acappella-comedy/lalelu-a-cappella-comedy-urlaub-vom-hirn-3849198/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/90/fb/lalelu---urlaub-vom-hirn-tickets_479271_3822724_222x222.jpg",
+    "added_at": "2026-10-08T07:16:44.334377+00:00"
   }
 ]
