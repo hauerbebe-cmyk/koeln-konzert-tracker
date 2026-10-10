@@ -13314,5 +13314,16 @@
     "url": "https://www.eventim.de/en/artist/kings-of-floyd/kings-of-floyd-dark-side-tour-3812902/",
     "image_url": "https://www.eventim.de/obj/mam/germany/25/a3/kings-of-floyd-tickets_539934_4421768_222x222.jpg",
     "added_at": "2026-10-10T07:14:02.013700+00:00"
+  },
+  {
+    "id": "4dafcde8dd185d4b",
+    "artist": "Kevin Neon – Ab hier scheint die Sonne - Live 2027",
+    "date": "2027-02-27 20:00:00+01:00",
+    "venue": "Schaafen Salon",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/kevin-neon-ab-hier-scheint-die-sonne-live-2027-4259688/",
+    "image_url": null,
+    "added_at": "2026-10-10T12:14:47.823887+00:00"
   }
 ]
