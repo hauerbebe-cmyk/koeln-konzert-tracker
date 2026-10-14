@@ -14271,5 +14271,49 @@
     "url": "https://www.eventim.de/en/artist/jennifer-rostock/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/jennifer-rostock-tickets-2026.jpg",
     "added_at": "2026-10-14T12:30:06.757884+00:00"
+  },
+  {
+    "id": "0ff2032fbe02ea6f",
+    "artist": "Naked Cameo - Phase To Phase Tour 2026",
+    "date": "2026-10-21 20:00:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/naked-cameo/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/naked-cameo-tickets-2026.jpg",
+    "added_at": "2026-10-14T17:20:04.867506+00:00"
+  },
+  {
+    "id": "b13f1a6ae07d66e5",
+    "artist": "Gregor Hägele - Wir singen Weihnachtslieder",
+    "date": "2026-12-14 20:00:00+01:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/gregor-haegele/gregor-haegele-wir-singen-weihnachtslieder-4262674/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/gregor-haegele-tickets-2026.jpg",
+    "added_at": "2026-10-14T17:20:04.867506+00:00"
+  },
+  {
+    "id": "acd397e646d50bee",
+    "artist": "Söhne Mannheims - Unkaputt // Best of Tour 2027",
+    "date": "2027-04-13 20:00:00+02:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/soehne-mannheims/soehne-mannheims-unkaputt-best-of-tour-2027-4033843/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/soehne-mannheims-tickets-2026.jpg",
+    "added_at": "2026-10-14T17:20:04.867506+00:00"
+  },
+  {
+    "id": "4f41c5e57998c5a3",
+    "artist": "Curse - 08.05.27 - Timberjacks Bispingen",
+    "date": "2027-02-13 22:30:00+01:00",
+    "venue": "Timberjacks Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/curse/curse-timberjacks-unplugged-curse-4264030/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/c/curse-tickets-2025-02.jpg",
+    "added_at": "2026-10-14T17:20:04.867506+00:00"
   }
 ]
