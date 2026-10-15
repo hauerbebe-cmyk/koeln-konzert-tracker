@@ -14480,5 +14480,71 @@
     "url": "https://www.eventim.de/en/artist/lalelu-acappella-comedy/lalelu-a-cappella-comedy-urlaub-vom-hirn-3849198/",
     "image_url": "https://www.eventim.de/obj/mam/germany/90/fb/lalelu---urlaub-vom-hirn-tickets_479271_3822724_222x222.jpg",
     "added_at": "2026-10-15T07:36:53.739645+00:00"
+  },
+  {
+    "id": "1e2997fa50675c38",
+    "artist": "Night of the Cookers",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "Salon De Jazz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/night-of-the-cookers-salon-de-jazz-4264824/",
+    "image_url": null,
+    "added_at": "2026-10-15T12:30:36.107771+00:00"
+  },
+  {
+    "id": "19b743301a74d8cc",
+    "artist": "Madmans Esprit- Album Tour Feb 2027",
+    "date": "2027-02-02 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/madmans-esprit/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/madmans-esprit-tickets-2026.jpg",
+    "added_at": "2026-10-15T12:30:36.107771+00:00"
+  },
+  {
+    "id": "94a5d1ffadeaa5dd",
+    "artist": "Madra Salach",
+    "date": "2027-02-07 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/madra-salach/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/madra-salach-1026-tickets-2026.jpg",
+    "added_at": "2026-10-15T12:30:36.107771+00:00"
+  },
+  {
+    "id": "f1379bfa89e71225",
+    "artist": "Max von Milland & die brennenden Herzen",
+    "date": "2026-11-12 20:00:00+01:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/max-von-milland/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/2d/64/max-von-milland---die-brennenden-herzen-tickets_471337_3780181_222x222.jpg",
+    "added_at": "2026-10-15T12:30:36.107771+00:00"
+  },
+  {
+    "id": "c224662a48472f02",
+    "artist": "EASY EASY - \"Barrakuda\" Tour 2027",
+    "date": "2027-04-02 20:30:00+02:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/easy-easy/easy-easy-barrakuda-tour-2027-4263474/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/cf/cc/easy-easy----barrakuda--tour-2027-tickets_627895_4726282_222x222.jpg",
+    "added_at": "2026-10-15T12:30:36.107771+00:00"
+  },
+  {
+    "id": "92014fb7a5345eb7",
+    "artist": "Christian Steiffen - Ich komme! 2027",
+    "date": "2027-04-14 20:00:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/christian-steiffen/christian-steiffen-ich-komme-2027-4143152/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/christian-steiffen-open-air-27-tickets-2026.jpg",
+    "added_at": "2026-10-15T12:30:36.107771+00:00"
   }
 ]
