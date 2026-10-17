@@ -15283,5 +15283,27 @@
     "url": "https://www.eventim.de/en/artist/kings-of-floyd/kings-of-floyd-dark-side-tour-3812902/",
     "image_url": "https://www.eventim.de/obj/mam/germany/25/a3/kings-of-floyd-tickets_539934_4421768_222x222.jpg",
     "added_at": "2026-10-17T07:31:51.796581+00:00"
+  },
+  {
+    "id": "bb0a6d9d3a1fbf69",
+    "artist": "Schickentanz/Schulte/Heinze",
+    "date": "2026-11-20 20:00:00+01:00",
+    "venue": "Salon De Jazz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/schickentanzschulteheinze-salon-de-jazz-4265099/",
+    "image_url": null,
+    "added_at": "2026-10-17T12:22:10.174099+00:00"
+  },
+  {
+    "id": "f8972c5afff280c7",
+    "artist": "Maxi Valdés Trio feat. Mirta Junco",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "Salon De Jazz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/maxi-valdes-trio-feat-mirta-junco-salon-de-jazz-4265137/",
+    "image_url": null,
+    "added_at": "2026-10-17T12:22:10.174099+00:00"
   }
 ]
