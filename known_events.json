@@ -15305,5 +15305,16 @@
     "url": "https://www.eventim.de/en/eventseries/maxi-valdes-trio-feat-mirta-junco-salon-de-jazz-4265137/",
     "image_url": null,
     "added_at": "2026-10-17T12:22:10.174099+00:00"
+  },
+  {
+    "id": "b71e4621ec5ec52f",
+    "artist": "SPEAK TRES",
+    "date": "2026-11-19 20:00:00+01:00",
+    "venue": "Salon De Jazz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/speak-tres-salon-de-jazz-4265087/",
+    "image_url": null,
+    "added_at": "2026-10-17T17:13:53.797884+00:00"
   }
 ]
