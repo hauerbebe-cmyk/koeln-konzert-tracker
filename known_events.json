@@ -15888,5 +15888,60 @@
     "url": "https://www.eventim.de/en/artist/vanessa-mai/vanessa-mai-tour-2028-4266978/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/vanessa-mai-tickets-2026.jpg",
     "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "e0c0ef7a86621af8",
+    "artist": "Mollie Elizabeth - People Pleaser Live",
+    "date": "2027-02-22T18:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/mollie-elizabeth-people-pleaser-live-tickets/1097940908?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/240/e9f26efb-dd3e-4f06-b07a-c4cb0f75d240_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-19T17:20:15.494809+00:00"
+  },
+  {
+    "id": "508da5b9ff5c0c99",
+    "artist": "She Wants Revenge - Europe 2027",
+    "date": "2027-02-03T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/she-wants-revenge-europe-2027-tickets/1667171805?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/844/731411f4-f480-4ee4-b21b-610dc4a63844_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-19T17:20:15.494809+00:00"
+  },
+  {
+    "id": "3766b56df4f61be1",
+    "artist": "Madrigal - European Tour 2027",
+    "date": "2027-01-08 21:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/madrigal/",
+    "image_url": "https://www.eventim.de/obj/mam2/event-2808072.jpg",
+    "added_at": "2026-10-19T17:20:15.494809+00:00"
+  },
+  {
+    "id": "feee5820a1f0b489",
+    "artist": "She Wants Revenge",
+    "date": "2027-02-01 20:00:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/she-wants-revenge/",
+    "image_url": null,
+    "added_at": "2026-10-19T17:20:15.494809+00:00"
+  },
+  {
+    "id": "6271acf2ed1c13e7",
+    "artist": "BEKKAA - Wird schon wieder leichter Tour 2027",
+    "date": "2027-05-20 20:00:00+02:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/bekkaa/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/bekkaa-wird-schon-wieder-leichter-tour-tickets-2026.jpg",
+    "added_at": "2026-10-19T17:20:15.494809+00:00"
   }
 ]
