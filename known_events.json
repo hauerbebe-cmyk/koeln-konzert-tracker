@@ -15789,5 +15789,104 @@
     "url": "https://www.eventim.de/en/artist/bach-in-space/",
     "image_url": "https://www.eventim.de/obj/mam/germany/0b/23/bach-in-space-tickets_438872_3560350_222x222.jpg",
     "added_at": "2026-10-19T07:44:59.270924+00:00"
+  },
+  {
+    "id": "453b097714d4e223",
+    "artist": "Andreas Gabalier - Arena Tour 2027",
+    "date": "2027-10-22T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/andreas-gabalier-arena-tour-2027-tickets/308526832?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/ba4/0d872dc2-1d26-45fc-9c11-97e0da3f1ba4_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "89369a916a0e9308",
+    "artist": "The Chambers - Die Virtuosen aus Köln",
+    "date": "2026-10-25 17:00:00+01:00",
+    "venue": "Christuskirche",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-chambers/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/a1/4d/-the-chambers----die-virtuosen-aus-koeln--tickets_582186_4473138_222x222.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "1e597dd0f24a7baa",
+    "artist": "Adventskonzert im Kölner Dom",
+    "date": "2026-12-22 20:00:00+01:00",
+    "venue": "Hoher Dom zu Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/adventskonzert-im-koelner-dom-4268093/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/f5/23/die-domchoere-singen-zum-advent-tickets_630351_4737426_222x222.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "89cd6f3e8c5b5e1d",
+    "artist": "Dream State",
+    "date": "2027-02-16 20:00:00+01:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/dream-state/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/dream-state-tickets-2026.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "a91268dfe0e2571c",
+    "artist": "Walking on Rivers - Bright Screen, Red Eyes, Science Fiction Tour",
+    "date": "2026-10-25 19:30:00+01:00",
+    "venue": "Garagen",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/walking-on-rivers/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/walking-on-rivers-tickets-2026.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "77be06fc5aa52990",
+    "artist": "Felipe Baldomir",
+    "date": "2027-04-02 20:00:00+02:00",
+    "venue": "Stadtgarten Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/felipe-baldomir/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/56/60/felipe-baldomir-tickets_627183_4722338_222x222.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "f945e27c7e6b4cb7",
+    "artist": "Gregory Porter",
+    "date": "2026-11-04 20:00:00+01:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/gregory-porter/gregory-porter-3336832/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/36/00/gregory-porter-tickets_319015_2648302_222x222.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "862434284e5369da",
+    "artist": "NightWash - Das Sing Ding | Das lustigste Mit-Sing-Konzert aller Zeiten!",
+    "date": "2026-10-23 20:00:00+02:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nightwash-live/nightwash-das-sing-ding-das-lustigste-mit-sing-konzert-aller-zeiten-4251249/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/das-sing-ding-tickets-2026.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
+  },
+  {
+    "id": "c330e89fc1e7c42c",
+    "artist": "Vanessa Mai - Tour 2028",
+    "date": "2028-03-30 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/vanessa-mai/vanessa-mai-tour-2028-4266978/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/vanessa-mai-tickets-2026.jpg",
+    "added_at": "2026-10-19T12:32:47.386205+00:00"
   }
 ]
