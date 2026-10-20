@@ -15943,5 +15943,93 @@
     "url": "https://www.eventim.de/en/artist/bekkaa/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/bekkaa-wird-schon-wieder-leichter-tour-tickets-2026.jpg",
     "added_at": "2026-10-19T17:20:15.494809+00:00"
+  },
+  {
+    "id": "4bff9eff32a827d2",
+    "artist": "Nadja Benaissa - orangeblau Tour",
+    "date": "2027-09-10T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.universe.com/events/nadja-benaissa-orangeblau-tour-tickets-XP283C?ref=ticketmaster",
+    "image_url": "https://s1.ticketm.net/dam/a/ba1/d4b9fe3b-a7ff-4f64-b42e-a5353d4e0ba1_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-20T07:37:02.074946+00:00"
+  },
+  {
+    "id": "79d67474db3a0fb1",
+    "artist": "Some Sprouts - Never Enough Tour 2026",
+    "date": "2026-10-20 20:00:00+02:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/some-sprouts/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/s/some-sprouts-tickets-2022-02.jpg",
+    "added_at": "2026-10-20T07:37:02.074946+00:00"
+  },
+  {
+    "id": "d1839dad2947aab1",
+    "artist": "koRn - EURO TOUR 2026",
+    "date": "2026-10-21 19:00:00+02:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/korn/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/korn-euro-tour-tickets-2026.jpg",
+    "added_at": "2026-10-20T07:37:02.074946+00:00"
+  },
+  {
+    "id": "66cb8ab95caa3f2e",
+    "artist": "Il Civetto - Album Tour 2026",
+    "date": "2026-10-20 20:00:00+02:00",
+    "venue": "E-Werk Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/il-civetto/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/il-civetto-tickets-2025.jpg",
+    "added_at": "2026-10-20T07:37:02.074946+00:00"
+  },
+  {
+    "id": "d66ce759ac9a2bf3",
+    "artist": "Alin Coen - „Du bedeutest mir die Welt“-Tour",
+    "date": "2026-10-20 19:30:00+02:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/alin-coen/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/alin-coen-du-bedeutest-mir-die-welt-tickets-2025.jpg",
+    "added_at": "2026-10-20T07:37:02.074946+00:00"
+  },
+  {
+    "id": "6fc241c6acc4089a",
+    "artist": "The Kilkennys - Thank You For The Days Tour 2026",
+    "date": "2026-10-21 20:00:00+02:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-kilkennys/the-kilkennys-thank-you-for-the-days-tour-2026-4001530/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/56/9c/the-kilkennys-tickets_454058_3655219_222x222.jpg",
+    "added_at": "2026-10-20T07:37:02.074946+00:00"
+  },
+  {
+    "id": "55f381617e4eb30a",
+    "artist": "Musik von Hans Zimmer - gespielt von Lords of the Sound",
+    "date": "2026-10-20 20:00:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lords-of-the-sound/musik-von-hans-zimmer-gespielt-von-lords-of-the-sound-3865850/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/93/82/musik-von-hans-zimmer---gespielt-von-lords-of-the-sound-tickets_528913_4146787_222x222.jpg",
+    "added_at": "2026-10-20T07:37:02.074946+00:00"
+  },
+  {
+    "id": "9a1cf7ef947dc30e",
+    "artist": "The Irish Folk Festival 2026 - Gold dust in your pocket Tour",
+    "date": "2026-10-20 20:00:00+02:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-irish-folk-festival/the-irish-folk-festival-2026-gold-dust-in-your-pocket-tour-3317257/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/7e/9f/the-irish-folk-festival-2026---gold-dust-in-your-pocket-tour-tickets_464006_3723141_222x222.jpg",
+    "added_at": "2026-10-20T07:37:02.074946+00:00"
   }
 ]
