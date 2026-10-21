@@ -16207,5 +16207,49 @@
     "url": "https://www.eventim.de/en/artist/sivert-hoeyem/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/sivert-hoyem-tickets-2026.jpg",
     "added_at": "2026-10-21T12:30:36.076191+00:00"
+  },
+  {
+    "id": "3a916d96701e01d6",
+    "artist": "Vanessa Mai Tour 2028",
+    "date": "2028-04-21T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/vanessa-mai-tour-2028-tickets/199243521?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/731/fc0f7fcf-1418-4e12-a4d6-a9ab90c07731_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-21T17:20:50.155147+00:00"
+  },
+  {
+    "id": "948617f3dbaa6886",
+    "artist": "ABBA Party/Mit-Sing Konzert | PartyMotto",
+    "date": "2026-10-30 20:00:00+01:00",
+    "venue": "Live Music Hall",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/iparty-people/abba-partymit-sing-konzert-partymotto-3674173/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/3d/62/abba---party---konzert---iparty-motto-tickets_536562_4187569_222x222.jpg",
+    "added_at": "2026-10-21T17:20:50.155147+00:00"
+  },
+  {
+    "id": "9ccb9d0f2ceb49f1",
+    "artist": "Die Udo Jürgens Story - Sein Leben, seine Liebe, seine Musik! Konzerte 2027",
+    "date": "2027-02-14 19:30:00+01:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/die-udo-juergens-story/die-udo-juergens-story-sein-leben-seine-liebe-seine-musik-konzerte-2027-4186249/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/die-udo-juergens-story-tickets-2026.jpg",
+    "added_at": "2026-10-21T17:20:50.155147+00:00"
+  },
+  {
+    "id": "94f115506011c09d",
+    "artist": "Andreas Gabalier - Arena Tour 2027",
+    "date": "2027-10-16 20:00:00+02:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/andreas-gabalier/andreas-gabalier-arena-tour-2027-4266171/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/andreas-gabalier-tour-27-tickets-2026.jpg",
+    "added_at": "2026-10-21T17:20:50.155147+00:00"
   }
 ]
