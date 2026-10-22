@@ -16416,5 +16416,38 @@
     "url": "https://www.eventim.de/en/artist/oh-wonder/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/oh-wonder-tickets-2026.jpg",
     "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "85a3fc092ed9b3c6",
+    "artist": "The Chambers - Die Virtuosen aus Köln",
+    "date": "2026-10-31 19:30:00+01:00",
+    "venue": "Ehemalige Heilig Kreuz Kirche",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-chambers/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/a1/4d/-the-chambers----die-virtuosen-aus-koeln--tickets_582186_4473138_222x222.jpg",
+    "added_at": "2026-10-22T12:31:55.273324+00:00"
+  },
+  {
+    "id": "2d15099c8ff84415",
+    "artist": "She Wants Revenge - Europe 2027",
+    "date": "2027-02-01 20:00:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/she-wants-revenge/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/she-wants-revenge-tickets-2026.jpg",
+    "added_at": "2026-10-22T12:31:55.273324+00:00"
+  },
+  {
+    "id": "4bbfbe6f4e299758",
+    "artist": "SCHILLER - ZENITH - Expect the unexpected",
+    "date": "2027-10-22 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/schiller/schiller-zenith-expect-the-unexpected-4256422/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/schiller-zenith-tickets-2026.jpg",
+    "added_at": "2026-10-22T12:31:55.273324+00:00"
   }
 ]
