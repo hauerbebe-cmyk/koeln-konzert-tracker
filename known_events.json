@@ -16251,5 +16251,170 @@
     "url": "https://www.eventim.de/en/artist/andreas-gabalier/andreas-gabalier-arena-tour-2027-4266171/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/andreas-gabalier-tour-27-tickets-2026.jpg",
     "added_at": "2026-10-21T17:20:50.155147+00:00"
+  },
+  {
+    "id": "5186ee132a7b1813",
+    "artist": "STOPPOK - RUND-Reise – die Band-Tour 2026",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/stoppok/stoppok-rund-reise-die-band-tour-2026-3515286/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/96/3c/stoppok-tickets_498813_3956383_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "46f43b75deb12ad5",
+    "artist": "Bläck Fööss",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "Kölner Philharmonie",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/blaeck-foeoess/blaeck-foeoess-3738392/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/a6/91/blaeck-foeoess-tickets_373129_3146226_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "6d7507e21009742c",
+    "artist": "Sharaktah - Live 2026",
+    "date": "2026-10-22 19:30:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/sharaktah/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/sharaktah-tickets-2026.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "11e2df4dc497bbb1",
+    "artist": "The Kilkennys - Thank You For The Days Tour 2026",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-kilkennys/the-kilkennys-thank-you-for-the-days-tour-2026-4001530/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/56/9c/the-kilkennys-tickets_454058_3655219_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "b8989d101945f312",
+    "artist": "JEREMIAS & Ensemble - Tour 2026",
+    "date": "2026-10-26 20:00:00+01:00",
+    "venue": "Kölner Philharmonie",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/jeremias/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/cc/f4/jeremias---ensemble-tickets_590509_4512070_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "bb54150f198947a1",
+    "artist": "Naked Cameo - Phase To Phase Tour 2026",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/naked-cameo/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/naked-cameo-tickets-2026.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "4c4a302d7016ff83",
+    "artist": "Musik von Hans Zimmer - gespielt von Lords of the Sound",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lords-of-the-sound/musik-von-hans-zimmer-gespielt-von-lords-of-the-sound-3865850/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/93/82/musik-von-hans-zimmer---gespielt-von-lords-of-the-sound-tickets_528913_4146787_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "760e8c9c14e741df",
+    "artist": "Lizz Wright - Fall 2026",
+    "date": "2026-10-26 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lizz-wright/lizz-wright-fall-2026-3679561/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/3e/8e/lizz-wright-tickets_486157_3869954_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "6e1eaff98a2bbf2d",
+    "artist": "Richard Cwiertnia - Ostblock Live",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/richard-cwiertnia/",
+    "image_url": null,
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "f8dbb388c5dcb922",
+    "artist": "VALLEY OF THE SUN",
+    "date": "2026-10-25 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/valley-of-the-sun/valley-of-the-sun-4140031/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/dc/f4/valley-of-the-sun-tickets_540226_4217718_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "d08f1974d13cfaec",
+    "artist": "The Irish Folk Festival 2026 - Gold dust in your pocket Tour",
+    "date": "2026-10-23 20:00:00+02:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-irish-folk-festival/the-irish-folk-festival-2026-gold-dust-in-your-pocket-tour-3317257/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/7e/9f/the-irish-folk-festival-2026---gold-dust-in-your-pocket-tour-tickets_464006_3723141_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "da4d0f7db0781ea7",
+    "artist": "ABBA Party/Mit-Sing Konzert | PartyMotto",
+    "date": "2026-11-06 20:00:00+01:00",
+    "venue": "Live Music Hall",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/iparty-people/abba-partymit-sing-konzert-partymotto-3674173/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/3d/62/abba---party---konzert---iparty-motto-tickets_536562_4187569_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "beeb140104482686",
+    "artist": "Henrik Freischlader",
+    "date": "2026-10-22 20:00:00+02:00",
+    "venue": "Altenberger Hof Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/henrik-freischlader/henrik-freischlader-2954258/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/0b/a6/henrik-freischlader--d--tickets_603959_4594114_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "52424196b7c7e022",
+    "artist": "Schlager & Spaß mit Andy Borg und Gästen",
+    "date": "2026-10-22 16:00:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/andy-borg/schlager-spass-mit-andy-borg-und-gaesten-3172152/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/04/30/schlager---spass-mit-andy-borg-und-gaesten-tickets_341954_2917305_222x222.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
+  },
+  {
+    "id": "d0f3c39042f513b5",
+    "artist": "Oh Wonder",
+    "date": "2027-05-05 20:00:00+02:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/oh-wonder/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/oh-wonder-tickets-2026.jpg",
+    "added_at": "2026-10-22T07:41:18.164622+00:00"
   }
 ]
