@@ -16834,5 +16834,27 @@
     "url": "https://www.eventim.de/en/artist/joel-brandenstein/joel-brandenstein-im-kerzenlicht-kirchentour-2027-4270929/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/joel-brandenstein-tickets-2026.jpg",
     "added_at": "2026-10-23T12:26:12.434638+00:00"
+  },
+  {
+    "id": "47aef3fc3036e691",
+    "artist": "Glazed Curtsains",
+    "date": "2027-04-08 20:00:00+02:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/glazed-curtains/",
+    "image_url": "https://www.eventim.de/obj/mam2/artist-2808808.jpg",
+    "added_at": "2026-10-23T20:10:49.930676+00:00"
+  },
+  {
+    "id": "4d06804528722ea0",
+    "artist": "SKUPPIN - Musée Sentimental Tour 2027",
+    "date": "2027-11-04 20:00:00+01:00",
+    "venue": "Garagen",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/skuppin/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/skuppin-1026-tickets-2026.jpg",
+    "added_at": "2026-10-23T20:10:49.930676+00:00"
   }
 ]
