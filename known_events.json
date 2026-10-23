@@ -16790,5 +16790,49 @@
     "url": "https://www.eventim.de/en/artist/blaeck-foeoess/blaeck-foeoess-3738392/",
     "image_url": "https://www.eventim.de/obj/mam/germany/a6/91/blaeck-foeoess-tickets_373129_3146226_222x222.jpg",
     "added_at": "2026-10-23T07:39:01.765382+00:00"
+  },
+  {
+    "id": "17ddf42a10f9d43b",
+    "artist": "Alfie Jukes",
+    "date": "2027-04-24T17:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/alfie-jukes-tickets/1078419140?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/6c0/6aa7b4a9-9949-45e0-ba63-22e54d8206c0_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-23T12:26:12.434638+00:00"
+  },
+  {
+    "id": "1a1f5ec9e9f3df7d",
+    "artist": "Club40 Partys - Die größten Ü40 Partys",
+    "date": "2026-10-31 19:00:00+01:00",
+    "venue": "Masquerade Club Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/mamma-mia-party-son-thai/club40-partys-die-groessten-ue40-partys-4140826/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/6b/e1/club40-partys---die-groesste-ue40-party-tour-tickets_542074_4222889_222x222.jpg",
+    "added_at": "2026-10-23T12:26:12.434638+00:00"
+  },
+  {
+    "id": "44863856b0391220",
+    "artist": "RIN - Nostalgia Tour",
+    "date": "2027-05-13 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/rin/rin-nostalgia-tour-4097055/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/rin-nostalgia-tour-tickets-2026.jpg",
+    "added_at": "2026-10-23T12:26:12.434638+00:00"
+  },
+  {
+    "id": "7065121d8f95d503",
+    "artist": "Joel Brandenstein im Kerzenlicht - Kirchentour 2027",
+    "date": "2027-10-01 19:30:00+02:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/joel-brandenstein/joel-brandenstein-im-kerzenlicht-kirchentour-2027-4270929/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/joel-brandenstein-tickets-2026.jpg",
+    "added_at": "2026-10-23T12:26:12.434638+00:00"
   }
 ]
