@@ -17692,5 +17692,16 @@
     "url": "https://www.ticketmaster.de/event/moe-geschichten-die-wir-niemandem-erzahlen-live-2026-tickets/458877064?language=en-us",
     "image_url": "https://s1.ticketm.net/dam/a/3c4/da3f3fef-9141-437c-8446-8de24cb8e3c4_RETINA_PORTRAIT_16_9.jpg",
     "added_at": "2026-10-26T18:22:18.859461+00:00"
+  },
+  {
+    "id": "c276b09ed5e583ca",
+    "artist": "moé - GESCHICHTEN DIE WIR NIEMANDEM ERZÄHLEN - LIVE 2027",
+    "date": "2027-03-17 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/moe-2/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/moe-tickets-2026.jpg",
+    "added_at": "2026-10-26T21:17:31.085058+00:00"
   }
 ]
