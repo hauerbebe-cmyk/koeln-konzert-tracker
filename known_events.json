@@ -17703,5 +17703,192 @@
     "url": "https://www.eventim.de/en/artist/moe-2/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/moe-tickets-2026.jpg",
     "added_at": "2026-10-26T21:17:31.085058+00:00"
+  },
+  {
+    "id": "0a721beb2601aaff",
+    "artist": "Myles Sanko",
+    "date": "2026-10-27 20:00:00+01:00",
+    "venue": "Stadtgarten Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/myles-sanko/",
+    "image_url": null,
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "e121d1bb8c009ddc",
+    "artist": "Nicko McBrain - Live 2026",
+    "date": "2026-10-27 20:00:00+01:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nicko-mcbrain/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/nicko-mcbrain-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "8886c1d0c3dd51a6",
+    "artist": "Stefanie Heinzmann - Circles Tour 2026",
+    "date": "2026-10-28 20:00:00+01:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/stefanie-heinzmann/stefanie-heinzmann-circles-tour-2026-3776817/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/stefanie-heinzmann-circles-tour-2026-tickets-2025.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "ed14f9114d84e761",
+    "artist": "Lizz Wright - Fall 2026",
+    "date": "2026-10-28 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lizz-wright/lizz-wright-fall-2026-3679561/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/3e/8e/lizz-wright-tickets_486157_3869954_222x222.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "dc26e3c3895cd31f",
+    "artist": "PLACEBO - 30TH ANNIVERSARY TOUR",
+    "date": "2026-10-29 20:00:00+01:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/placebo/placebo-30th-anniversary-tour-3549104/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/placebo-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "4cc0e0f855154689",
+    "artist": "Richard Cwiertnia - Ostblock Live",
+    "date": "2026-10-27 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/richard-cwiertnia/",
+    "image_url": null,
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "fa143b873bcea767",
+    "artist": "The Clockworks - Tour 2026",
+    "date": "2026-10-28 20:00:00+01:00",
+    "venue": "Bumann & Sohn",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-clockworks/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/the-clockworks-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "6412c0ba56e333de",
+    "artist": "Olli Schulz - Allein in Deiner Stadt Tour 2026",
+    "date": "2026-11-02 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/olli-schulz/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/olli-schulz-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "27d7138ae4dc6252",
+    "artist": "Rudelsingen",
+    "date": "2026-10-28 19:30:00+01:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/rudelsingen/rudelsingen-1469802/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/89/03/das-1.-duisburger-rudelsingen-tickets_471582_3781033_222x222.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "ed4054a97ff56191",
+    "artist": "Danger Dan - Keine Angst Tour",
+    "date": "2026-10-27 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/danger-dan/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/danger-dan-keine-angst-tour-1906-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "4fb17fd3e188adea",
+    "artist": "The Gregorian Voices",
+    "date": "2026-10-28 19:00:00+01:00",
+    "venue": "Auferstehungskirche Ostheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-gregorian-voices/the-gregorian-voices-3016414/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/21/ca/the-gregorian-voices-tickets_344677_2961557_222x222.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "5a6e7e092de0847d",
+    "artist": "Queenz of Piano",
+    "date": "2026-10-27 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/queenz-of-piano/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/dc/b8/queenz-of-piano---piano-cosmos-tour-2027-tickets_580035_4454108_222x222.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "44f91390f8fb4908",
+    "artist": "Daniel Norgren - Tour 2027",
+    "date": "2027-04-16 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/daniel-norgren/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/daniel-norgren-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "e1586045d7a20a5b",
+    "artist": "Fortuna Ehrenfeld - Solo am Klavier",
+    "date": "2026-12-18 20:00:00+01:00",
+    "venue": "Kölner Philharmonie",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/fortuna-ehrenfeld/fortuna-ehrenfeld-solo-am-klavier-4044822/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/fortuna-ehrenfeld-solo-am-klavier-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "11542b3598e1a563",
+    "artist": "Beth Gibbons",
+    "date": "2027-07-06 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/beth-gibbons/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/beth-gibbons-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "7d52246de1eeed00",
+    "artist": "Gregory Porter & Band My first time at Tanzbrunnen Open Air",
+    "date": "2027-07-13 19:30:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/gregory-porter/gregory-porter-band-my-first-time-at-tanzbrunnen-open-air-3336832/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/gregory-porter-tickets-2026.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
+  },
+  {
+    "id": "cbffa013c3c7a450",
+    "artist": "Hexenkessel 2027",
+    "date": "2027-10-23 17:00:00+02:00",
+    "venue": "Bürgerhaus Stollwerck",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/hexenkessel-2027-buergerhaus-stollwerck-4272783/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/f3/5e/hexenkessel-2027-tickets_633130_4762998_222x222.jpg",
+    "added_at": "2026-10-27T13:02:15.883051+00:00"
   }
 ]
