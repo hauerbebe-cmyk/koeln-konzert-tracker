@@ -18308,5 +18308,38 @@
     "url": "https://www.eventim.de/en/artist/max-mutzke/swr-big-band-max-mutzke-noch-viel-mehr-tour-20272028-3749017/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/swr-big-band-u-max-mutzke-tickets-2026.jpg",
     "added_at": "2026-10-29T13:59:42.706646+00:00"
+  },
+  {
+    "id": "1203461956082e9b",
+    "artist": "New York Voices – The Last Concert | Altes Pfandhaus",
+    "date": "2026-12-15 19:00:00+01:00",
+    "venue": "Altes Pfandhaus Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/new-york-voices-the-last-concert-altes-pfandhaus-4274373/",
+    "image_url": null,
+    "added_at": "2026-10-29T18:08:12.312217+00:00"
+  },
+  {
+    "id": "f5161931e3db5000",
+    "artist": "Peter Bence",
+    "date": "2026-11-14 20:00:00+01:00",
+    "venue": "Musical Dome Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/peter-bence/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/34/a4/peter-bence---pianosphere-tour-tickets_536113_4191116_222x222.jpg",
+    "added_at": "2026-10-29T18:08:12.312217+00:00"
+  },
+  {
+    "id": "94fba6d564edf224",
+    "artist": "Liser",
+    "date": "2027-04-01 20:00:00+02:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/liser/liser-4273520/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/l/liser-tickets-2023-02.jpg",
+    "added_at": "2026-10-29T18:08:12.312217+00:00"
   }
 ]
