@@ -18671,5 +18671,38 @@
     "url": "https://www.eventim.de/en/artist/herman-van-veen/",
     "image_url": "https://www.eventim.de/obj/mam/germany/7e/bf/herman-van-veen---unterwegs-tickets_636219_4774161_222x222.jpg",
     "added_at": "2026-10-30T13:53:53.492202+00:00"
+  },
+  {
+    "id": "512896af1cf95641",
+    "artist": "re6ce",
+    "date": "2027-05-25T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/re6ce-tickets/1265991687?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/e7b/23731be6-7a23-42a4-98a3-acdc91706e7b_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-10-30T17:47:34.776156+00:00"
+  },
+  {
+    "id": "4bf4de59f501ed29",
+    "artist": "EMEI - Night at the Opera",
+    "date": "2027-03-12 19:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/emei/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/emei-tickets-2026.jpg",
+    "added_at": "2026-10-30T17:47:34.776156+00:00"
+  },
+  {
+    "id": "8d68dc16da11cb61",
+    "artist": "Grossstadtgeflüster - 23 2/3 Jahre Jubiläumstour 2026",
+    "date": "2027-09-03 20:00:00+02:00",
+    "venue": "E-Werk Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/grossstadtgefluester/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/grossstadtgefluester-2323-tickets-2025.jpg",
+    "added_at": "2026-10-30T17:47:34.776156+00:00"
   }
 ]
