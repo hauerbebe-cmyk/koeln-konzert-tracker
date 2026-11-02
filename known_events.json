@@ -19111,5 +19111,159 @@
     "url": "https://www.eventim.de/en/artist/kings-of-floyd/kings-of-floyd-dark-side-tour-3812902/",
     "image_url": "https://www.eventim.de/obj/mam/germany/25/a3/kings-of-floyd-tickets_539934_4421768_222x222.jpg",
     "added_at": "2026-11-01T14:06:42.997331+00:00"
+  },
+  {
+    "id": "f0096e1a8c411383",
+    "artist": "Meltt",
+    "date": "2027-02-13T18:30:00Z",
+    "venue": "Garagen",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/meltt-tickets/706688771?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/033/f9018d64-3c39-4d9b-81f1-aa13bd6b5033_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "2aadac168b95b955",
+    "artist": "SECHSER – EINS SECHSER EINS TOUR",
+    "date": "2026-11-02 20:00:00+01:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/sechser/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/sechser-tickets-2026.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "368ac88c608ef5c4",
+    "artist": "The Clockworks - Tour 2026",
+    "date": "2026-11-02 20:00:00+01:00",
+    "venue": "Bumann & Sohn",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-clockworks/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/the-clockworks-tickets-2026.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "b9c0f95f318f95c2",
+    "artist": "Veljanov",
+    "date": "2026-11-03 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/alexander-veljanov-tickets/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/veljanov-tickets-2026.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "246b8fa71e0251e6",
+    "artist": "Dad Harmony - Tour 2026",
+    "date": "2026-11-02 20:00:00+01:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/dad-harmony/dad-harmony-tour-2026-4044779/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/1e/ca/dad-harmony--tickets_486076_3867555_222x222.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "d9ee8baa4cce999b",
+    "artist": "Joe Jackson & Band - Hope And Fury Tour 2026",
+    "date": "2026-11-02 19:30:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/joe-jackson/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/joe-jackson-tickets-2025.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "c936dd41a452212b",
+    "artist": "Massive Wagons",
+    "date": "2026-11-04 20:00:00+01:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/massive-wagons/massive-wagons-4165411/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/f3/4c/massive-wagons---special-guests-tickets_559600_4337111_222x222.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "b93bca5be30a50a8",
+    "artist": "Danger Dan - Keine Angst Tour",
+    "date": "2026-11-06 19:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/danger-dan/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/danger-dan-keine-angst-tour-1906-tickets-2026.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "647a3eb17a9ba49f",
+    "artist": "Ina Müller und Band - Die 6.0 Tour",
+    "date": "2026-11-06 20:00:00+01:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/ina-mueller/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/ina-mueller-die-6-0-tour-tickets-2025.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "2d1e6f74f41ba7e6",
+    "artist": "William Wahl - einmal das beste von allem",
+    "date": "2027-01-25 19:30:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/william-wahl/william-wahl-einmal-das-beste-von-allem-3798066/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/4d/54/william-wahl-tickets_471555_3774133_222x222.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "056da749e3c24273",
+    "artist": "Akryl - Blanke Knochen glänzen nicht",
+    "date": "2027-04-09 19:00:00+02:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/akryl/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/akryl-tickets-2026.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "58055b7e0ce0f3ab",
+    "artist": "Tim Fischer - Chansons",
+    "date": "2026-11-06 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tim-fischer/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/b4/86/tim-fischer-tickets_487961_3893942_222x222.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "da825db037304c64",
+    "artist": "Tripkid",
+    "date": "2027-05-08 20:00:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tripkid/tripkid-liebe-hass-tour-2027-4089098/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/tripkid-1126-tickets-2026.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
+  },
+  {
+    "id": "2324e9ca953d3e04",
+    "artist": "Der W - VI Tour 2027",
+    "date": "2027-09-29 20:00:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/der-w/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/der-w-vi-tour-tickets-2026.jpg",
+    "added_at": "2026-11-02T16:52:45.560897+00:00"
   }
 ]
