@@ -19452,5 +19452,181 @@
     "url": "https://www.eventim.de/en/artist/suzi-quatro/",
     "image_url": "https://www.eventim.de/obj/mam/germany/72/10/suzi-quatro---band-tickets_473148_3802439_222x222.jpg",
     "added_at": "2026-11-03T19:12:16.489679+00:00"
+  },
+  {
+    "id": "b6f553dfd877c03d",
+    "artist": "Sound of Nashville präsentiert: THE WASHBOARD UNION - Live 2026",
+    "date": "2026-11-04 19:00:00+01:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/sound-of-nashville/sound-of-nashville-praesentiert-the-washboard-union-live-2026-4090750/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/the-washboard-union-tickets-2026.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "f20bf92350b38ea0",
+    "artist": "VALLEY OF THE SUN",
+    "date": "2026-11-05 19:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/valley-of-the-sun/valley-of-the-sun-4140031/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/dc/f4/valley-of-the-sun-tickets_540226_4217718_222x222.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "3ab354e6412577f5",
+    "artist": "The Irish Folk Festival 2026 - Gold dust in your pocket Tour",
+    "date": "2026-11-04 20:00:00+01:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-irish-folk-festival/the-irish-folk-festival-2026-gold-dust-in-your-pocket-tour-3317257/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/7e/9f/the-irish-folk-festival-2026---gold-dust-in-your-pocket-tour-tickets_464006_3723141_222x222.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "96c645e2f5976242",
+    "artist": "Olli Schulz - Allein in Deiner Stadt Tour 2026",
+    "date": "2026-11-04 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/olli-schulz/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/olli-schulz-tickets-2026.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "1383ba875df06709",
+    "artist": "Gentleman - Gratitude Tour 2026",
+    "date": "2026-11-04 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/gentleman/gentleman-gratitude-tour-2026-4114645/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/gentleman-gratitude-tour-tickets-2026.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "4e43e887755121b9",
+    "artist": "Lugatti",
+    "date": "2026-11-04 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lugatti/lugatti-mit-der-concorde-ueber-den-atlantik-tour-2026-4166985/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/lugatti-tickets-2026.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "f8f84a2ea0c8d979",
+    "artist": "Muff Potter - Klepto Tour 2026",
+    "date": "2026-11-11 19:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/muff-potter/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/e9/1c/muff-potter-tickets_507345_4005700_222x222.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "7fe3ee932aff80d9",
+    "artist": "Letz Zep (Led Zeppelin Tribute)",
+    "date": "2026-11-06 20:00:00+01:00",
+    "venue": "Groove Bar",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/letz-zep/letz-zep-led-zeppelin-tribute-815383/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/72/ec/letz-zep-tickets_269824_2409512_222x222.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "e52a855b5521fe62",
+    "artist": "Milano - Diamonds Tour",
+    "date": "2026-11-05 19:00:00+01:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/milano/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/milano-diamonds-tour-tickets-2025.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "403725e8f8f51a5e",
+    "artist": "Dad Poet Society",
+    "date": "2027-02-12 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/dead-poet-society/dead-poet-society-4175570/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/dead-poet-society-tickets-2026.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "a3b936c978e11c68",
+    "artist": "Alizade",
+    "date": "2027-03-18 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/alizade/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/alizade-tickets-2026.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "0005e1c71bfcd08a",
+    "artist": "Brings x Cat Ballou  - Immer för immer",
+    "date": "2027-05-15 19:30:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/brings/brings-x-cat-ballou-immer-foer-immer-4247295/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/b/brings-and-friends-tickets-2026-02.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "91faefabf05add92",
+    "artist": "Peter Kraus & Band - Die LIEDER meines LEBENS",
+    "date": "2027-07-14 19:30:00+02:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/peter-kraus/peter-kraus-band-die-lieder-meines-lebens-4277770/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/p/peter-kraus-tickets-2026-02.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "834cf45aebc6e0e4",
+    "artist": "Köbes Underground",
+    "date": "2027-04-23 20:00:00+02:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/koebes-underground/koebes-underground-1508730/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/d1/55/buergerhaus-huerth-tickets_463034_3727506_222x222.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "a79b2fb816ac87e1",
+    "artist": "CKay - Banger Boy",
+    "date": "2026-11-08 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/ckay/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/ckay-tickets-2026.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
+  },
+  {
+    "id": "f5bcc5a2e2045987",
+    "artist": "NightWash - Das Sing Ding | Das lustigste Mit-Sing-Konzert aller Zeiten!",
+    "date": "2026-11-25 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nightwash-live/nightwash-das-sing-ding-das-lustigste-mit-sing-konzert-aller-zeiten-4251249/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/das-sing-ding-tickets-2026.jpg",
+    "added_at": "2026-11-04T15:12:41.441399+00:00"
   }
 ]
