@@ -20970,5 +20970,16 @@
     "url": "https://www.eventim.de/en/artist/kings-of-floyd/kings-of-floyd-dark-side-tour-3812902/",
     "image_url": "https://www.eventim.de/obj/mam/germany/25/a3/kings-of-floyd-tickets_539934_4421768_222x222.jpg",
     "added_at": "2026-11-08T14:08:23.927562+00:00"
+  },
+  {
+    "id": "51d24879f468108e",
+    "artist": "Juli - Tour 2027",
+    "date": "2027-11-30 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/juli/juli-tour-2027-4270392/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/juli-tickets-2026.jpg",
+    "added_at": "2026-11-08T17:43:07.532557+00:00"
   }
 ]
