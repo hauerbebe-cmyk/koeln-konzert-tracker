@@ -21553,5 +21553,38 @@
     "url": "https://www.eventim.de/en/artist/soulcats/",
     "image_url": "https://www.eventim.de/obj/mam/germany/90/c3/soulcats-tickets_491424_3900030_222x222.jpg",
     "added_at": "2026-11-10T15:28:06.828970+00:00"
+  },
+  {
+    "id": "c3fa0ce38d90d66b",
+    "artist": "Chase Matthew - 2027 Europe and UK Tour",
+    "date": "2027-03-17T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/chase-matthew-2027-europe-and-uk-tour-tickets/1370787076?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/0f7/d79e5a7b-07ec-4141-aa7c-67d1ed5b80f7_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-10T19:25:24.618302+00:00"
+  },
+  {
+    "id": "b7b04c19edbde914",
+    "artist": "Katie Gregson-MacLeod - The Albatross Tour",
+    "date": "2027-02-17 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/katie-gregson-macleod/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/katie-gregson-macleod-tickets-2026.jpg",
+    "added_at": "2026-11-10T19:25:24.618302+00:00"
+  },
+  {
+    "id": "5a1ac85dac5c6c28",
+    "artist": "Flower Face",
+    "date": "2027-04-10 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/flower-face/flower-face-tour-2027-4173631/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/f/flower-face-tickets-2026-02.jpg",
+    "added_at": "2026-11-10T19:25:24.618302+00:00"
   }
 ]
