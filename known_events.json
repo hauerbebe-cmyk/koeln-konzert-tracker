@@ -23192,5 +23192,71 @@
     "url": "https://www.eventim.de/en/artist/anda-morts/anda-morts-hektomatik-woed-tour-4199203/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/anda-morts-0726-tickets-2026.jpg",
     "added_at": "2026-11-17T00:36:35.404877+00:00"
+  },
+  {
+    "id": "75f1285b411c925a",
+    "artist": "Sasha Keable - Act Right Tour",
+    "date": "2027-03-09T20:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/sasha-keable-act-right-tour-tickets/154848110?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/622/442965e5-b6e1-4650-88f2-9107cb74b622_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-17T16:45:12.007294+00:00"
+  },
+  {
+    "id": "349295d85ade757a",
+    "artist": "Ninajirachi - I Love My Computer and It Loves Me Tour",
+    "date": "2027-04-22T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/ninajirachi-i-love-my-computer-and-it-loves-me-tour-tickets/1232418398?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/c22/a3205a13-b36a-4d0b-959a-fb73b74bfc22_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-17T16:45:12.007294+00:00"
+  },
+  {
+    "id": "d4688c8df3d07e22",
+    "artist": "Ben Caplan - Old Things / New Things",
+    "date": "2027-04-16 22:00:00+02:00",
+    "venue": "Stadtgarten Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/ben-caplan/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/ben-caplan-tickets-2026.jpg",
+    "added_at": "2026-11-17T16:45:12.007294+00:00"
+  },
+  {
+    "id": "79b5092d08f2ba76",
+    "artist": "The Cat Empire  - Bells of Midnight Album Tour",
+    "date": "2027-04-17 20:00:00+02:00",
+    "venue": "E-Werk Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-cat-empire/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/the-cat-empire-tickets-2026.jpg",
+    "added_at": "2026-11-17T16:45:12.007294+00:00"
+  },
+  {
+    "id": "586f91cbecb90542",
+    "artist": "Gianni Suave - GIGIGI.REC TOUR 2027",
+    "date": "2027-10-14 20:00:00+02:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/gianni-suave/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/gianni-suave-tickets-2026.jpg",
+    "added_at": "2026-11-17T16:45:12.007294+00:00"
+  },
+  {
+    "id": "8bf500ceeb935b0c",
+    "artist": "KAMRAD - TOUR 2028",
+    "date": "2028-02-11 19:30:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/kamrad/kamrad-tour-2028-4157534/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/kamrad-tour-tickets-2026.jpg",
+    "added_at": "2026-11-17T16:45:12.007294+00:00"
   }
 ]
