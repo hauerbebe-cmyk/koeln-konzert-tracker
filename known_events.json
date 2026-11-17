@@ -23104,5 +23104,93 @@
     "url": "https://www.eventim.de/en/artist/sofy/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/sofy-tickets-112026.jpg",
     "added_at": "2026-11-16T21:43:50.290636+00:00"
+  },
+  {
+    "id": "a0fc660a6a9df81b",
+    "artist": "Nie und Nimmer - Gute Dinge passieren Tour 2026",
+    "date": "2026-11-17 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nie-und-nimmer/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/nie-und-nimmer-tickets-2025.jpg",
+    "added_at": "2026-11-17T00:36:35.404877+00:00"
+  },
+  {
+    "id": "9023b99527e640b9",
+    "artist": "Mic Donet - Memories Tour 2026",
+    "date": "2026-11-17 20:00:00+01:00",
+    "venue": "Reineke Fuchs",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/mic-donet/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/df/ec/mic-donet-memories-tour-2026-tickets_563444_4352042_222x222.jpg",
+    "added_at": "2026-11-17T00:36:35.404877+00:00"
+  },
+  {
+    "id": "72357964206660bb",
+    "artist": "Tina Dico - Live 2026",
+    "date": "2026-11-17 20:00:00+01:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tina-dico/tina-dico-live-2026-3901559/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/81/d6/tina-dico--live-2026-tickets_590424_4509476_222x222.jpg",
+    "added_at": "2026-11-17T00:36:35.404877+00:00"
+  },
+  {
+    "id": "7a12f4f41dd6aada",
+    "artist": "Mighty Oaks - Tour 2026",
+    "date": "2026-11-17 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/mighty-oaks/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/mighty-oaks-tickets-2025.jpg",
+    "added_at": "2026-11-17T00:36:35.404877+00:00"
+  },
+  {
+    "id": "ed5386f306caf595",
+    "artist": "Kingfishr",
+    "date": "2026-11-17 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/kingfishr/kingfishr-3959599/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/kingfishr-tickets-2026.jpg",
+    "added_at": "2026-11-17T00:36:35.404877+00:00"
+  },
+  {
+    "id": "432c0c7a193131e9",
+    "artist": "Filow - Live 2026",
+    "date": "2026-11-23 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/filow/filow-live-2026-4166500/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/filow-tickets-2026.jpg",
+    "added_at": "2026-11-17T00:36:35.404877+00:00"
+  },
+  {
+    "id": "5ed0aa4d7d317fd1",
+    "artist": "BAROCK – Europe’s greatest tribute to AC/DC",
+    "date": "2026-12-11 19:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/barock/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/99/2f/barock---europe-s-greatest-tribute-to-ac-dc-tickets_406204_3358690_222x222.jpg",
+    "added_at": "2026-11-17T00:36:35.404877+00:00"
+  },
+  {
+    "id": "2a136df4e125d9e7",
+    "artist": "Anda Morts - Hektomatik Wöd Tour",
+    "date": "2026-11-17 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/anda-morts/anda-morts-hektomatik-woed-tour-4199203/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/anda-morts-0726-tickets-2026.jpg",
+    "added_at": "2026-11-17T00:36:35.404877+00:00"
   }
 ]
