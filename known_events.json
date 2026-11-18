@@ -23423,5 +23423,60 @@
     "url": "https://www.eventim.de/en/artist/kings-of-floyd/kings-of-floyd-dark-side-tour-3812902/",
     "image_url": "https://www.eventim.de/obj/mam/germany/25/a3/kings-of-floyd-tickets_539934_4421768_222x222.jpg",
     "added_at": "2026-11-17T23:46:38.613606+00:00"
+  },
+  {
+    "id": "ec3644d36c0180ad",
+    "artist": "Hermanos Gutiérrez - Los Ojos Del Condor Tour",
+    "date": "2026-11-18 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hermanos-gutierrez/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/hermanos-gutierrez-0626-tickets-2026.jpg",
+    "added_at": "2026-11-18T16:15:30.782037+00:00"
+  },
+  {
+    "id": "087b1a16c164e1f7",
+    "artist": "Have Yourself a Jazzy Little Christmas | Salon De Jazz",
+    "date": "2026-12-11 20:00:00+01:00",
+    "venue": "Salon De Jazz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/salon-de-jazz-koeln/have-yourself-a-jazzy-little-christmas-salon-de-jazz-4291254/",
+    "image_url": null,
+    "added_at": "2026-11-18T16:15:30.782037+00:00"
+  },
+  {
+    "id": "116a2eaff9299676",
+    "artist": "Dardan x The Albanian Party - Live",
+    "date": "2026-12-11 21:00:00+01:00",
+    "venue": "Electrum Köln GmbH",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/dardan/dardan-x-the-albanian-party-live-electrum-koeln-4289968/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/f6/0b/dardan-x-the-albanian-party---live-tickets_643362_4821813_222x222.jpg",
+    "added_at": "2026-11-18T16:15:30.782037+00:00"
+  },
+  {
+    "id": "4f02e15eacb126e4",
+    "artist": "DERYCK WHIBLEY",
+    "date": "2027-04-13 20:00:00+02:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/deryck-whibley-4292277/",
+    "image_url": null,
+    "added_at": "2026-11-18T16:15:30.782037+00:00"
+  },
+  {
+    "id": "b4188d95869eb0fa",
+    "artist": "Palebloom - Maybe I’m Not That Alright",
+    "date": "2027-04-22 20:00:00+02:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/palebloom/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/palebloom-tickets-2026.jpg",
+    "added_at": "2026-11-18T16:15:30.782037+00:00"
   }
 ]
