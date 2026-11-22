@@ -24699,5 +24699,16 @@
     "url": "https://www.eventim.de/en/artist/kings-of-floyd/kings-of-floyd-dark-side-tour-3812902/",
     "image_url": "https://www.eventim.de/obj/mam/germany/25/a3/kings-of-floyd-tickets_539934_4421768_222x222.jpg",
     "added_at": "2026-11-22T15:06:31.884105+00:00"
+  },
+  {
+    "id": "eea6d2fdb752cd6d",
+    "artist": "Fruchtiger Beigeschmack - Löschzug Tour 2027",
+    "date": "2027-10-06 20:00:00+02:00",
+    "venue": "Garagen",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/fruchtiger-beigeschmack/fruchtiger-beigeschmack-loeschzug-tour-2027-4189619/",
+    "image_url": null,
+    "added_at": "2026-11-22T19:09:44.417807+00:00"
   }
 ]
