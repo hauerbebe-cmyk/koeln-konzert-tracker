@@ -24952,5 +24952,170 @@
     "url": "https://www.eventim.de/en/artist/anda-morts/anda-morts-hektomatik-woed-tour-4199203/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/anda-morts-0726-tickets-2026.jpg",
     "added_at": "2026-11-24T03:08:04.318485+00:00"
+  },
+  {
+    "id": "7fc304968717ec3f",
+    "artist": "Staind: Break The Cycle UK & Europe 25th Anniversary Tour",
+    "date": "2027-06-08T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/staind-break-the-cycle-uk--europe-25th-anniversary-tour-tickets/1172062729?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/0a6/49147c44-6330-4570-9b0f-d73028ca50a6_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "cf0e2899cdc019f1",
+    "artist": "Stand Atlantic",
+    "date": "2027-03-02T18:30:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/stand-atlantic-tickets/1237946476?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/16f/2e386c66-cd8a-464b-900a-8e4bddca116f_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "b7b8a69fbea1fe72",
+    "artist": "Hannes Schöner & Freunde - Volksbühne am Rudolfplatz",
+    "date": "2026-12-21 19:00:00+01:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hannes-schoener/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/9e/ec/hannes-schoener---freunde----schoener-bescherung----weihnachtskonzert-tickets_647156_4832266_222x222.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "21c4d078d4fe389d",
+    "artist": "Poizi Köln",
+    "date": "2026-12-24 19:00:00+01:00",
+    "venue": "Bootshaus",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/poizi-live-koeln-bootshaus-4294817/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/79/94/poizi-koeln-tickets_646446_4839132_222x222.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "84fc1968ffdcb53f",
+    "artist": "Henrik Freischlader",
+    "date": "2027-02-18 20:00:00+01:00",
+    "venue": "Altenberger Hof Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/henrik-freischlader/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/0b/a6/henrik-freischlader--d--tickets_603959_4594114_222x222.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "38b45c4ca99c2ef1",
+    "artist": "MASTODON - The Poisonous Weapons Tour",
+    "date": "2027-03-27 19:50:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/mastodon/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/mastodon-2411-tickets-2026.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "249e43fc86f16320",
+    "artist": "Isak Danielson",
+    "date": "2027-04-18 20:00:00+02:00",
+    "venue": "Stadtgarten Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/isak-danielson/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/isak-danielson-2311-tickets-2026.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "93631e10f3c194ae",
+    "artist": "STAIND - Break The Cycle 25th Anniversary",
+    "date": "2027-06-08 20:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/staind/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/s/staind-neu-tickets.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "70146daf8d73601d",
+    "artist": "Greg Freeman",
+    "date": "2027-06-07 21:00:00+02:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/greg-freeman/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/greg-freeman-tickets-2026.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "06df2abe75a94d21",
+    "artist": "Wilco - Wilcoworld Tour",
+    "date": "2027-06-22 20:00:00+02:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/wilco/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/wilco-tickets-2026.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "08c2e20126b8af10",
+    "artist": "siovo - LIVE 27",
+    "date": "2027-09-21 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/siovo/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/siovo-live27-tickets-2026.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "8b2c2f4d4f5c8904",
+    "artist": "Chapo102 - Ruhe vor dem Sturm Tour 2027 | CD & Vinyl Bundles",
+    "date": "2027-10-27 19:00:00+02:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/chapo102/chapo102-ruhe-vor-dem-sturm-tour-2027-cd-vinyl-bundles-4137637/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/chapo102-ruhe-vor-dem-sturm-album-bundle-tickets-2026.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "91b0ea917dd4966c",
+    "artist": "Deine Lakaien - Love To The End",
+    "date": "2027-11-04 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/deine-lakaien/deine-lakaien-love-to-the-end-4289234/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/deine-lakaien-tickets-2026.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "b38636decd7c9c1f",
+    "artist": "HÖHNER - Höhner Weihnacht 2027",
+    "date": "2027-11-26 19:30:00+01:00",
+    "venue": "Maritim Hotel Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hoehner/hoehner-hoehner-weihnacht-2027-4287992/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/hoehner-weihnacht-27-tickets-2026.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "3ae1da6daa53191a",
+    "artist": "Guido Dossche - Special Guest: Jörg Schnabe",
+    "date": "2028-04-15 20:00:00+02:00",
+    "venue": "Blue Shell",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/guido-dossche/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/ee/29/guido-dossche-tickets_560067_4348905_222x222.jpg",
+    "added_at": "2026-11-24T18:41:49.460453+00:00"
   }
 ]
