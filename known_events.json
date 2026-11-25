@@ -25238,5 +25238,148 @@
     "url": "https://www.eventim.de/en/eventseries/anbu-monastir-animetrix-4294761/",
     "image_url": null,
     "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "607edde037bc5b7b",
+    "artist": "Chase Atlantic — DON’T LOOK DOWN TOUR",
+    "date": "2027-04-16T18:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/351310848?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/409/c0b343cb-2232-4724-b276-7d0af4b0e409_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "0d9b7fc10257754d",
+    "artist": "WizTheMc - AROUND THE SUN TOUR",
+    "date": "2027-02-28T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/wizthemc-around-the-sun-tour-tickets/1522486031?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/c56/73108d81-6326-48dd-b276-5ff00e842c56_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "328aa8a4ab5e53db",
+    "artist": "LIYO - LIYO’S FIRST  HEADLINER SHOW?????",
+    "date": "2027-02-19 19:30:00+01:00",
+    "venue": "Garagen",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/liyo/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/ff/89/liyo---liyo-s-first--headliner-show-tickets_647195_4839018_222x222.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "8d28f0951c937215",
+    "artist": "Saint Etienne - Farewell European Tour 2027",
+    "date": "2027-03-01 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/saint-etienne/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/saint-etienne-farewell-euopean-tour-tickets-2026.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "744f6f06e0490a08",
+    "artist": "Elvis - In his own Words | Seine Musik. Seine Worte. Seine Geschichte.",
+    "date": "2027-01-30 19:00:00+01:00",
+    "venue": "Trinitatiskirche",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/elvis-in-his-own-words-seine-musik-seine-worte-seine-geschichte--4253518/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/4c/29/elvis---in-his-own-words-tickets_620830_4696273_222x222.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "8fcdb46395950cf5",
+    "artist": "The Cult - Live 2027",
+    "date": "2027-08-17 20:00:00+02:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-cult/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/t/the-cult-tickets-2025-02.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "bbc4f6c75e074853",
+    "artist": "Anbu Monastir & Animetrix",
+    "date": "2027-09-07 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/anbu-monastir/",
+    "image_url": null,
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "b50f37ec848b6a14",
+    "artist": "Jonathan Zelter - Tour 2027",
+    "date": "2027-09-10 20:00:00+02:00",
+    "venue": "Bürgerhaus Stollwerck",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/jonathan-zelter/jonathan-zelter-auf-das-leben-auf-die-liebe-tour-2027-4297525/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/cf/f2/jonathan-zelter---tour-2027-tickets_647991_4839765_222x222.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "c07ee1ae5d73b3cb",
+    "artist": "Karnivool",
+    "date": "2027-09-29 20:00:00+02:00",
+    "venue": "E-Werk Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/karnivool/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/karnivool-tickets-2026.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "a65b8262e7ddcad6",
+    "artist": "FR.05.02. PAUL VAN DYK LIVE I BREMEN",
+    "date": "2027-02-05 20:00:00+01:00",
+    "venue": "DIE HALLE TOR 2",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/paul-van-dyk/paul-van-dyk-live-i-4293667/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/c6/41/fr.05.02.-paul-van-dyk-live-i-bremen-tickets_648033_4839757_222x222.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "ad2adbf0796b33a0",
+    "artist": "Diana Krall - In Concert",
+    "date": "2027-10-03 20:00:00+02:00",
+    "venue": "Kölner Philharmonie",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/diana-krall/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/d/diana-krall-tickets-2024-02.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "3502b36521860344",
+    "artist": "The Kilkennys - Music of Ireland Tour 2027",
+    "date": "2027-10-10 19:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-kilkennys/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/39/bd/the-kilkennys---music-of-ireland-tour-2027-tickets_629732_4735096_222x222.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
+  },
+  {
+    "id": "2f9c966c0065b24f",
+    "artist": "Die Orsons - 20 Jahre Abschied",
+    "date": "2027-11-25 19:15:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/die-orsons/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/die-orsons-20-jahre-abschied-tickets-2026.jpg",
+    "added_at": "2026-11-25T17:54:24.406717+00:00"
   }
 ]
