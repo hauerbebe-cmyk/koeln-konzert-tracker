@@ -25117,5 +25117,126 @@
     "url": "https://www.eventim.de/en/artist/guido-dossche/",
     "image_url": "https://www.eventim.de/obj/mam/eventim.light/ee/29/guido-dossche-tickets_560067_4348905_222x222.jpg",
     "added_at": "2026-11-24T18:41:49.460453+00:00"
+  },
+  {
+    "id": "baa8d2e436a80d25",
+    "artist": "Hey, Nothing - Hound World Tour",
+    "date": "2026-11-25 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/hey-nothing/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/hey-nothing-tickets-2026.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "b09efc36093cec06",
+    "artist": "Mighty Oaks - Tour 2026",
+    "date": "2026-11-25 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/mighty-oaks/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/mighty-oaks-tickets-2025.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "f0be1b00bd3189be",
+    "artist": "Portugal. The Man - The Denali Tour",
+    "date": "2026-11-26 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/portugal-the-man/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/portugal-the-man-tickets-2025.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "040a47a0bf01464f",
+    "artist": "Tophouse",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tophouse/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/d5/7b/tophouse-tickets_584448_4481646_222x222.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "03a97a64e3000aa1",
+    "artist": "Berq - Tour 2026",
+    "date": "2026-11-25 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/berq/berq-tour-2026-3973471/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/berq-tickets-2026.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "a1b223fc8fa7fc7c",
+    "artist": "The Scratch - World Tour 2026",
+    "date": "2026-11-25 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-scratch/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/the-scratch-1809-tickets-2026.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "b9eef71cf5cec8f5",
+    "artist": "frytz - ZEIT TEILEN Tour 2026",
+    "date": "2026-11-26 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/frytz/frytz-zeit-teilen-tour-2026-4033231/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/frytz-zeit-teilen-tickets-2026.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "4afc31b494ebae22",
+    "artist": "CATT - \"Alive\" Tour 26/27",
+    "date": "2026-11-25 20:00:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/catt/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/d4/fa/catt-tickets_537959_4212606_222x222.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "3db26e08bd9f7001",
+    "artist": "GLORIA singt",
+    "date": "2027-02-25 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/gloria-singt-3779624/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/1b/a5/gloria-singt-tickets_376925_3173039_222x222.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "4f6654ded911fbd6",
+    "artist": "Anda Morts - Hektomatik Wöd Tour",
+    "date": "2026-11-25 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/anda-morts/anda-morts-hektomatik-woed-tour-4199203/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/anda-morts-0726-tickets-2026.jpg",
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
+  },
+  {
+    "id": "b50da53ab16b776e",
+    "artist": "Anbu Monastir & Animetrix",
+    "date": "2027-09-08 20:00:00+02:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/anbu-monastir-animetrix-4294761/",
+    "image_url": null,
+    "added_at": "2026-11-25T01:13:55.941783+00:00"
   }
 ]
