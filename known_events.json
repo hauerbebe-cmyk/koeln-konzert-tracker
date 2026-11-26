@@ -25392,5 +25392,181 @@
     "url": "https://www.eventim.de/en/artist/anthrax/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/a/anthrax-tickets-2026-02.jpg",
     "added_at": "2026-11-25T21:11:55.745207+00:00"
+  },
+  {
+    "id": "a606d487c3fd420d",
+    "artist": "Fortuna Ehrenfeld - Jubiläumstour - 10 Jahre Fortuna",
+    "date": "2026-11-26 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/fortuna-ehrenfeld/fortuna-ehrenfeld-jubilaeumstour-10-jahre-fortuna-4115951/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/10-jahre-fortuna-ehrenfeld-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "280d29e54f6a7a4e",
+    "artist": "Miljö - Mitsing-Tour 2026 - Unplugged",
+    "date": "2026-11-26 20:00:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/miljoe/miljoe-mitsing-tour-2026-unplugged-4055249/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/ec/5b/miljoe---mitsing-tour-2026---unplugged-tickets_486082_3867835_222x222.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "1606e1a3a4f68629",
+    "artist": "Ella Stern - das schlimmste und das beste - Tour 2026",
+    "date": "2026-11-26 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/ella-stern/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/ella-stern-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "153487b2fafa10ee",
+    "artist": "Anneke van Giersbergen & Band - Echoes In November - Tour 2026",
+    "date": "2026-11-27 19:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/anneke-van-giersbergen/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/4c/51/anneke-van-giersbergen--tickets_522207_4103406_222x222.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "8efdbc51669ecdcf",
+    "artist": "Nico Gomez - Safe Songs Tour 2026",
+    "date": "2026-11-26 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nico-gomez/nico-gomez-safe-songs-tour-2026-4075362/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/23/76/nico-gomez---safe-songs-tour-2026-tickets_497205_3940643_222x222.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "25affc121223b182",
+    "artist": "Berq - Tour 2026",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/berq/berq-tour-2026-3973471/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/berq-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "5ea5dd0ad47c3650",
+    "artist": "Tori Kelly - God Must Really Love Me Europe Tour",
+    "date": "2026-11-26 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tori-kelly/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/tori-kelly-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "3b1ba8c9ba5e24f6",
+    "artist": "The Scratch - World Tour 2026",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-scratch/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/the-scratch-1809-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "03b2dc4a0004cfff",
+    "artist": "Filow - Live 2026",
+    "date": "2026-11-28 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/filow/filow-live-2026-4166500/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/filow-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "f50fb48e640d4306",
+    "artist": "BAP - Fünfzig Jahre - Die Zielgerade - Tour 2026",
+    "date": "2026-11-27 19:30:00+01:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/bap/bap-fuenfzig-jahre-die-zielgerade-tour-2026-3945710/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/bap-50-jahre-tickets-2025.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "f73dfbb7b8914dd9",
+    "artist": "Rudelsingen",
+    "date": "2026-12-02 20:00:00+01:00",
+    "venue": "Volksbühne am Rudolfplatz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/rudelsingen/rudelsingen-1469802/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/89/03/das-1.-duisburger-rudelsingen-tickets_471582_3781033_222x222.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "710f928a608bf8ad",
+    "artist": "CATT - \"Alive\" Tour 26/27",
+    "date": "2026-11-26 20:30:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/catt/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/d4/fa/catt-tickets_537959_4212606_222x222.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "799619d718f52c8f",
+    "artist": "The Last Internationale",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-last-internationale/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/the-last-internationale-1026-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "d97ec138d18c9426",
+    "artist": "Anda Morts - Hektomatik Wöd Tour",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/anda-morts/anda-morts-hektomatik-woed-tour-4199203/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/anda-morts-0726-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "acca7147b356a8d1",
+    "artist": "Guido Dossche - Special Guest: Jörg Schnabe",
+    "date": "2027-04-15 20:00:00+02:00",
+    "venue": "Blue Shell",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/guido-dossche/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/ee/29/guido-dossche-tickets_560067_4348905_222x222.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
+  },
+  {
+    "id": "edff376140b18712",
+    "artist": "NightWash - Das Sing Ding | Das lustigste Mit-Sing-Konzert aller Zeiten!",
+    "date": "2026-11-26 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nightwash-live/nightwash-das-sing-ding-das-lustigste-mit-sing-konzert-aller-zeiten-4251249/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/das-sing-ding-tickets-2026.jpg",
+    "added_at": "2026-11-26T00:49:01.456731+00:00"
   }
 ]
