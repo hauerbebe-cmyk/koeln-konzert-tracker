@@ -25810,5 +25810,159 @@
     "url": "https://www.eventim.de/en/artist/nightwash-live/nightwash-das-sing-ding-das-lustigste-mit-sing-konzert-aller-zeiten-4251249/",
     "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/das-sing-ding-tickets-2026.jpg",
     "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "abf13b769fea137e",
+    "artist": "Yungpalo - THE NEON TOUR",
+    "date": "2027-02-02T19:00:00Z",
+    "venue": "Cologne",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/yungpalo-the-neon-tour-tickets/2002380281?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/a73/32f25fbd-e065-4ac2-961b-41eeb1493a73_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "950f8af4c415d12c",
+    "artist": "CUCAMARAS",
+    "date": "2027-04-21T18:00:00Z",
+    "venue": "Yard Club",
+    "city": "Cologne",
+    "source": "ticketmaster",
+    "url": "https://www.ticketmaster.de/event/cucamaras-tickets/1878684182?language=en-us",
+    "image_url": "https://s1.ticketm.net/dam/a/642/dca0e383-bb9f-4f97-9603-32d6803e8642_RETINA_PORTRAIT_16_9.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "829faa2cbf61efcf",
+    "artist": "Sinizter + Zombiez",
+    "date": "2027-03-25 20:00:00+01:00",
+    "venue": "Club Volta",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/sinizter/",
+    "image_url": null,
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "b07da2348eea3141",
+    "artist": "ATEEZ: 2027 ATEEZ WORLD TOUR [ZERO TO ALL]",
+    "date": "2027-04-07 19:30:00+02:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/ateez/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/ateez-tickets-2026.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "b46561146843a2de",
+    "artist": "Gisbert zu Knyphausen ",
+    "date": "2027-04-08 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/gisbert-zu-knyphausen/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/29/4f/gisbert-zu-knyphausen-tickets_647961_4838121_222x222.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "77d38fdc2c13836b",
+    "artist": "Paul Smith",
+    "date": "2027-05-08 20:00:00+02:00",
+    "venue": "Stadtgarten Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/paul-smith/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/paul-smith-tickets-2026.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "ec7734db864efc79",
+    "artist": "KC REBELL & VEYSEL – MACH KEINE FILME TOUR 2027",
+    "date": "2027-05-21 20:00:00+02:00",
+    "venue": "E-Werk Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/kc-rebell/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/kc-rebell-veysel-mach-keine-filme-tickets-2026.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "d213bfa4f394d68b",
+    "artist": "ARXX - THE S.O.S. TOUR",
+    "date": "2027-05-28 20:00:00+02:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/arxx/",
+    "image_url": "https://www.eventim.de/obj/mam2/event-2812651.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "e801fe39b9c5c17a",
+    "artist": "SHDOUW Live - Sommertour 2027",
+    "date": "2027-07-10 19:30:00+02:00",
+    "venue": "Bürgerhaus Kalk",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/shdouw/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/36/15/shdouw-tickets_647073_4842146_222x222.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "f7ac1aa1e9a76000",
+    "artist": "Lara Hulo - Meine Liebe ist heilig - Tour 27",
+    "date": "2027-10-21 20:00:00+02:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/lara-hulo/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/lara-hulo-tickets-2026.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "0ffdb2e66f33e780",
+    "artist": "Roller Derby - Live 2027",
+    "date": "2027-11-12 20:00:00+01:00",
+    "venue": "Garagen",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/roller-derby/",
+    "image_url": "https://www.eventim.de/obj/mam2/event-2812579.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "8e2ca3b0203d93ad",
+    "artist": "Oimara",
+    "date": "2026-12-10 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/oimara/oimara-2631635/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/91/c7/oimara--tickets_248914_2255223_222x222.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "987990d110e61753",
+    "artist": "Night of the Proms 2027",
+    "date": "2027-11-26 18:00:00+01:00",
+    "venue": "LANXESS arena",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/night-of-the-proms/night-of-the-proms-2027-4277809/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/galery/222x222/n/night-of-the-proms-tickets-2023.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
+  },
+  {
+    "id": "5c86f63914110be6",
+    "artist": "Tom Gaebel & His Orchestra - A Swinging Christmas 2027",
+    "date": "2027-11-28 19:00:00+01:00",
+    "venue": "Tanzbrunnen Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tom-gaebel/tom-gaebel-his-orchestra-a-swinging-christmas-2027-4052534/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/0b/14/tom-gaebel---a-swinging-christmas-2027-tickets_558074_4324036_222x222.jpg",
+    "added_at": "2026-11-27T17:17:06.448936+00:00"
   }
 ]
