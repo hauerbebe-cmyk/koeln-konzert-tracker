@@ -25623,5 +25623,192 @@
     "url": "https://www.eventim.de/en/artist/lumaraa/lumaraa-heute-wie-damals-tour-2027-4299346/",
     "image_url": "https://www.eventim.de/obj/mam2/tour-2812340.png",
     "added_at": "2026-11-26T17:34:43.175735+00:00"
+  },
+  {
+    "id": "f0370e9819646d09",
+    "artist": "Nico Gomez - Safe Songs Tour 2026",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nico-gomez/nico-gomez-safe-songs-tour-2026-4075362/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/23/76/nico-gomez---safe-songs-tour-2026-tickets_497205_3940643_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "724a6d2e6083b28e",
+    "artist": "Xaon",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "artheater Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/xaon/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/ae/72/xaon-tickets_545414_4255964_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "e9a771d4983a8fa1",
+    "artist": "Kyles Tolone - Youth Revisited Tour 2026/27",
+    "date": "2026-11-27 19:00:00+01:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/kyles-tolone/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/ed/c1/kyles-tolone-tickets_525584_4128641_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "7da21e163831f39a",
+    "artist": "Portugal. The Man - The Denali Tour",
+    "date": "2026-11-28 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/portugal-the-man/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2025/portugal-the-man-tickets-2025.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "250bc2785c0ae548",
+    "artist": "Tori Kelly - God Must Really Love Me Europe Tour",
+    "date": "2026-11-29 19:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tori-kelly/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/tori-kelly-tickets-2026.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "3b9e04cdfd03d4b9",
+    "artist": "Guildo Horn & Die Orthopädischen Strümpfe - Weihnachten mit Guildo",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/guildo-horn/guildo-horn-die-orthopaedischen-struempfe-weihnachten-mit-guildo-3391642/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/de/73/guildo-horn---die-orthopaedischen-struempfe-tickets_98993_916635_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "3f59bebf6e2f8c52",
+    "artist": "Pinhead - Beauty in Pain Tour 2026",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/pinhead/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/pinhead-2503-tickets-2026.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "da9f5db4eb8986ff",
+    "artist": "HÄNSEL - Bevor-er-Fame-war-Tour",
+    "date": "2026-11-28 20:00:00+01:00",
+    "venue": "ehem. Heliosgelände",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/haensel/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/d7/b1/haensel---bevor-er-fame-war-tour-2026-tickets_554373_4304157_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "363928da2f0e33f3",
+    "artist": "frytz - ZEIT TEILEN Tour 2026",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "Carlswerk Victoria",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/frytz/frytz-zeit-teilen-tour-2026-4033231/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/frytz-zeit-teilen-tickets-2026.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "36d2aa587ad1f441",
+    "artist": "Hammond Organ Grooves & Jam Session - Salon De Jazz",
+    "date": "2026-12-10 20:00:00+01:00",
+    "venue": "Salon De Jazz",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/hammond-organ-grooves-jam-session-salon-de-jazz-4092767/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/91/58/hammond-organ-grooves---jam-session-tickets_640229_4804319_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "2f22e8a6605e6293",
+    "artist": "Sondaschule - \"Wir bleiben Wach Tour\" 2026",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "Palladium Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/sondaschule/sondaschule-wir-bleiben-wach-tour-2026-4134514/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/sondaschule-tickets-2026.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "019cf6bb894c85de",
+    "artist": "Tonic Walter - II Tour 2026",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "HELIOS37",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/tonic-walter/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/tonic-walter-tickets-2026.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "ecc5d65655f36a36",
+    "artist": "The Gregorian Voices - Gregorianik zur Weihnachtszeit",
+    "date": "2026-11-28 18:00:00+01:00",
+    "venue": "Auferstehungskirche Ostheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/the-gregorian-voices/the-gregorian-voices-gregorianik-zur-weihnachtszeit-3835482/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/a5/7f/the-gregorian-voices-tickets_357157_3041109_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "af4f3f53b5953c7f",
+    "artist": "Götz Widmann",
+    "date": "2026-11-28 20:00:00+01:00",
+    "venue": "GLORIA",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/goetz-widmann/",
+    "image_url": "https://www.eventim.de/obj/mam/germany/a9/3d/goetz-widmann-tickets_570585_4401534_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "8af738e3e81cfb43",
+    "artist": "CATT - \"Alive\" Tour 26/27",
+    "date": "2027-01-28 20:00:00+01:00",
+    "venue": "Kulturkirche Köln",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/catt/",
+    "image_url": "https://www.eventim.de/obj/mam/eventim.light/d4/fa/catt-tickets_537959_4212606_222x222.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "db186457385550d4",
+    "artist": "#round - Kölner Philharmonie",
+    "date": "2027-02-18 21:00:00+01:00",
+    "venue": "Kölner Philharmonie",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/eventseries/round-koelner-philharmonie-3890118/",
+    "image_url": null,
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
+  },
+  {
+    "id": "0d93469bb590b7fe",
+    "artist": "NightWash - Das Sing Ding | Das lustigste Mit-Sing-Konzert aller Zeiten!",
+    "date": "2026-11-27 20:00:00+01:00",
+    "venue": "Stadthalle Köln-Mülheim",
+    "city": "Köln",
+    "source": "eventim",
+    "url": "https://www.eventim.de/en/artist/nightwash-live/nightwash-das-sing-ding-das-lustigste-mit-sing-konzert-aller-zeiten-4251249/",
+    "image_url": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2026/das-sing-ding-tickets-2026.jpg",
+    "added_at": "2026-11-27T00:55:29.050362+00:00"
   }
 ]
